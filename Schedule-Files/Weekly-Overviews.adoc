@@ -1,0 +1,279 @@
+= Latin-2
+:toc: left
+:toclevels: 4
+
+//tag::Week-0[]
+
+
+
+//end::Week-0[]
+
+== 1st Quarter
+
+=== Module 1 -- Review 1
+
+==== Week 1
+//tag::Week-1[]
+Students will review vocabulary and grammar lessons from Chapters 1-7 of Ecce Romani I.
+
+Students will apply their knowledge by 
+
+- recognizing vocabulary
+- identifying nominative and accusative nouns and adjectives
+- identifying personal verb ends as well as the uses of the infinitive
+- translating Latin sentences
+//end::Week-1[]
+
+==== Week 2
+//tag::Week-2[]
+Students will review vocabulary and grammar lessons from Chapters 8-12 of Ecce Romani I.
+
+Students will apply their knowledge by 
+
+- recognizing vocabulary
+- identifying nominative and accusative nouns and adjectives
+- identifying personal verb ends as well as the uses of the infinitive
+- translating Latin sentences
+
+//end::Week-2[]
+
+==== Week 3
+//tag::Week-3[]
+
+test test 
+
+test
+
+
+Review Chapters 13-17
+//end::Week-3[]
+
+==== Week 4
+//tag::Week-4[]
+Review Chapters 18-21
+//end::Week-4[]
+
+==== Week 5
+//tag::Week-5[]
+Review for Test
+//end::Week-5[]
+
+=== Module 2 -- Review 2
+
+==== Week 6
+//tag::Week-6[]
+Review Chapters 18-21
+//end::Week-6[]
+
+==== Week 7
+//tag::Week-7[]
+Review Chapters 22-24
+//end::Week-7[]
+
+==== Week 8
+//tag::Week-8[]
+Review Chapters 25-27
+//end::Week-8[]
+
+==== Week 9
+//tag::Week-9[]
+Review for Test
+//end::Week-9[]
+
+== 2nd Quarter
+
+=== Module 3
+==== Week 10
+//tag::Week-10[]
+Review Chapters 1-7
+//end::Week-10[]
+
+==== Week 11
+//tag::Week-11[]
+Review Chapters 8-12
+//end::Week-11[]
+
+==== Week 12
+//tag::Week-12[]
+Review Chapters 13-17
+//end::Week-12[]
+
+==== Week 13
+//tag::Week-13[]
+Review Chapters 18-21
+//end::Week-13[]
+
+==== Week 14
+//tag::Week-14[]
+Review for Test
+//end::Week-14[]
+
+=== Module 4
+
+==== Week 15
+//tag::Week-15[]
+Review Chapters 1-7
+//end::Week-15[]
+
+==== Week 16
+//tag::Week-16[]
+Review Chapters 8-12
+//end::Week-16[]
+
+==== Week 16
+//tag::Week-16[]
+Review Chapters 13-17
+//end::Week-16[]
+
+==== Week 17
+//tag::Week-17[]
+Review Chapters 18-21
+//end::Week-17[]
+
+==== Week 18
+//tag::Week-18[]
+Review for Test
+//end::Week-18[]
+
+== 3rd Quarter
+
+=== Module 5
+
+==== Week 19
+//tag::Week-19[]
+Review Chapters 1-7
+//end::Week-19[]
+
+==== Week 20
+//tag::Week-20[]
+Review Chapters 8-12
+//end::Week-20[]
+
+==== Week 21
+//tag::Week-21[]
+Review Chapters 13-17
+//end::Week-21[]
+
+==== Week 22
+//tag::Week-22[]
+Review Chapters 18-21
+//end::Week-22[]
+
+==== Week 23
+//tag::Week-23[]
+Review for Test
+//end::Week-23[]
+
+=== Module 6
+
+==== Week 24
+//tag::Week-24[]
+Review Chapters 18-21
+//end::Week-24[]
+
+==== Week 25
+//tag::Week-25[]
+Review Chapters 22-24
+//end::Week-25[]
+
+==== Week 26
+//tag::Week-26[]
+Review Chapters 25-27
+//end::Week-26[]
+
+==== Week 27
+//tag::Week-27[]
+Review for Test
+//end::Week-27[]
+
+== 4th Quarter
+
+=== Module 7
+
+==== Week 28
+//tag::Week-28[]
+Review Chapters 1-7
+//end::Week-28[]
+
+==== Week 29
+//tag::Week-29[]
+Review Chapters 8-12
+//end::Week-29[]
+
+==== Week 30
+//tag::Week-30[]
+Review Chapters 13-17
+//end::Week-30[]
+
+==== Week 31
+//tag::Week-31[]
+Review Chapters 18-21
+//end::Week-31[]
+
+==== Week 32
+//tag::Week-32[]
+Review for Test
+//end::Week-32[]
+
+=== Module 8
+
+==== Week 33
+//tag::Week-33[]
+Review Chapters 1-7
+//end::Week-33[]
+
+==== Week 34
+//tag::Week-34[]
+Review Chapters 8-12
+//end::Week-34[]
+
+==== Week 35
+//tag::Week-35[]
+Review Chapters 13-17
+//end::Week-35[]
+
+==== Week 36
+//tag::Week-36[]
+Review Chapters 18-21
+//end::Week-36[]
+
+==== Week 37
+//tag::Week-37[]
+Review for Test
+//end::Week-37[]
+
+
+
+
+
+==== extra
+
+==== Week 38
+//tag::Week-38[]
+Review Chapters 1-7
+//end::Week-38[]
+
+==== Week 39
+//tag::Week-39[]
+Review Chapters 8-12
+//end::Week-39[]
+
+==== Week 40
+//tag::Week-40[]
+Review Chapters 13-17
+//end::Week-40[]
+
+==== Week 41
+//tag::Week-41[]
+Review Chapters 18-21
+//end::Week-41[]
+
+==== Week 42
+//tag::Week-42[]
+Review for Test
+//end::Week-42[]
+
+//tag::Week-43[]
+Review for Test
+//end::Week-43[]
+

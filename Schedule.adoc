@@ -1,0 +1,1304 @@
+= Latin-2-Assignments
+:toc: left
+:toclevels: 3
+:sectids:
+:sectlinks:
+:sectanchors:
+:sectnums:
+:sectnumlevels: 2
+
+
+== 1st Quarter
+=== Module 1 -- Review 1
+==== Week 1
+//tag::Week-1[]
+//tag::Weekly-Overview-1[]
+There is no "Launch Work."
+//end::Weekly-Overview-1[]
+//end::Week-1[]
+
+==== Week 2
+//tag::Week-2
+//tag::Weekly-Overview-2[]
+There is no "Launch Work."
+//end::Weekly-Overview-2[]
+//end::Week-2[]
+
+==== Week 3
+//tag::Week-3[]
+Chapters 1-7
+
+//tag::Weekly-Overview-3[]
+
+
+//end::Weekly-Overview-3[]
+//tag::Assignment-001[]
+===== Monday, August 5, 2024
+No work
+
+//end::Assignment-001[]
+//tag::Assignment-002[]
+===== Tuesday, August 6, 2024
+We will cover the sysabus and discuss homework for the week.
+
+//end::Assignment-002[]
+//tag::Assignment-003[]
+===== Wednesday, August 7, 2024
+ 
+//end::Assignment-003[]
+//tag::Assignment-004[]
+===== Thursday, August 8, 2024
+
+//end::Assignment-004[]
+//tag::Assignment-005[]
+===== Friday, August 9, 2024
+
+//end::Assignment-005[]
+//tag::Quiz-01[]
+Quiz 1
+
+//end::Quiz-01[]
+//end::Week-3[]
+
+
+==== Week 4
+//tag::Week-4[]
+Chapters 8-12
+
+//tag::Weekly-Overview-4[]
+4
+
+//end::Weekly-Overview-4[]
+//tag::Assignment-006[]
+===== Monday, August 12, 2024
+
+//end::Assignment-006[]
+//tag::Assignment-007[]
+===== Tuesday, August 13, 2024
+
+//end::Assignment-007[]
+//tag::Assignment-008[]
+===== Wednesday, August 14, 2024
+
+//end::Assignment-008[]
+//tag::Assignment-009[]
+===== Thursday, August 15, 2024
+
+//end::Assignment-009[]
+//tag::Assignment-010[]
+===== Friday, August 16, 2024
+
+//end::Assignment-010[]
+//tag::Quiz-02[]
+Quiz 2
+
+//end::Quiz-02[]
+//end::Week-4[]
+
+==== Week 5
+//tag::Week-5[]
+Chapters 13-17
+
+//tag::Weekly-Overview-5[]
+5
+
+//end::Weekly-Overview-5[]
+
+//tag::Assignment-011[]
+===== Monday, August 19, 2024
+
+//end::Assignment-011[]
+//tag::Assignment-012[]
+===== Tuesday, August 20, 2024
+
+//end::Assignment-012[]
+//tag::Assignment-013[]
+===== Wednesday, August 21, 2024
+
+//end::Assignment-013[]
+//tag::Assignment-014[]
+===== Thursday, August 22, 2024
+
+//end::Assignment-014[]
+//tag::Assignment-015[]
+===== Friday, August 23, 2024
+
+//end::Assignment-015[]
+//tag::Quiz-03[]
+Quiz 3
+
+//end::Quiz-03[]
+//end::Week-5[]
+
+
+==== Week 6
+//tag::Week-6[]
+Chaptes 1-17
+
+//tag::Weekly-Overview-6[]
+6
+
+//end::Weekly-Overview-6[]
+//tag::Assignment-016[]
+===== Monday, August 26, 2024
+
+//end::Assignment-016[]
+//tag::Assignment-017[]
+===== Tuesday, August 27, 2024
+
+//end::Assignment-017[]
+//tag::Assignment-018[]
+===== Wednesday, August 28, 2024
+
+//end::Assignment-018[]
+//tag::Assignment-019[]
+===== Thursday, August 29, 2024
+
+//end::Assignment-019[]
+//tag::Assignment-020[]
+===== Friday, August 30, 2024
+
+//end::Assignment-020[]
+//tag::Quiz-04[]
+Quiz 4
+
+//end::Quiz-04[]
+//end::Week-6[]
+
+==== Week 7
+//tag::Week-7[]
+Chapters 1-17
+
+//tag::Weekly-Overview-7[]
+7
+
+//end::Weekly-Overview-7[]
+//tag::Assignment-021[]
+===== Monday, September 2, 2024
+*Labor Day*
+
+//end::Assignment-021[]
+//tag::Assignment-022[]
+===== Tuesday, September 3, 2024
+*Satellite Day*
+
+//end::Assignment-022[]
+//tag::Assignment-023[]
+===== Wednesday, September 4, 2024
+
+//end::Assignment-023[]
+//tag::Assignment-024[]
+===== Thursday, September 5, 2024
+
+//end::Assignment-024[]
+//tag::Assignment-025[]
+===== Friday, September 6, 2024
+
+//end::Assignment-025[]
+//tag::Test-01[]
+Test 1
+
+//end::Test-01[]
+//end::Week-7[]
+
+=== Module 2 -- Review 2
+==== Week 8
+//tag::Week-8[]
+Chapters 18-21
+
+//tag::Weekly-Overview-8[]
+8
+
+//end::Weekly-Overview-8[]
+//tag::Assignment-026[]
+===== Monday, September 9, 2024
+
+//end::Assignment-026[]
+//tag::Assignment-027[]
+===== Tuesday, September 10, 2024
+
+//end::Assignment-027[]
+//tag::Assignment-028[]
+===== Wednesday, September 11, 2024
+
+//end::Assignment-028[]
+//tag::Assignment-029[]
+===== Thursday, September 12, 2024
+
+//end::Assignment-029[]
+//tag::Assignment-030[]
+===== Friday, September 13, 2024
+
+//end::Assignment-030[]
+//tag::Quiz-05[]
+Quiz 5
+
+//end::Quiz-05[]
+//end::Week-8[]
+
+
+==== Week 9
+//tag::Week-9[]
+Chapters 22-27
+
+//tag::Weekly-Overview-9[]
+9
+
+//end::Weekly-Overview-9[]
+//tag::Assignment-031[]
+===== Monday, September 16, 2024
+
+//end::Assignment-031[]
+//tag::Assignment-032[]
+===== Tuesday, September 17, 2024
+*Chapel Day*
+
+//end::Assignment-032[]
+//tag::Assignment-033[]
+===== Wednesday, September 18, 2024
+
+//end::Assignment-033[]
+//tag::Assignment-034[]
+===== Thursday, September 19, 2024
+
+//end::Assignment-034[]
+//tag::Assignment-035[]
+===== Friday, September 20, 2024
+
+//end::Assignment-035[]
+//tag::Quiz-06[]
+Quiz 6
+
+//end::Quiz-06[]
+//end::Week-9[]
+
+==== Week 10
+//tag::Week-10[]
+Chapters 18-27
+
+//tag::Weekly-Overview-10[]
+10
+
+//end::Weekly-Overview-10[]
+//end::Week-10[]
+
+==== Week 11
+//tag::Week-11[]
+//tag::Weekly-Overview-11[]
+11
+
+//end::Weekly-Overview-11[]
+//tag::Assignment-036[]
+===== Monday, September 30, 2024
+
+//end::Assignment-036[]
+//tag::Assignment-037[]
+===== Tuesday, October 1, 2024
+
+//end::Assignment-037[]
+//tag::Assignment-038[]
+===== Wednesday, October 2, 2024
+
+//end::Assignment-038[]
+//tag::Assignment-039[]
+===== Thursday, October 3, 2024
+
+//end::Assignment-039[]
+//tag::Assignment-040[]
+===== Friday, October 4, 2024
+
+//end::Assignment-040[]
+//tag::Test-02[]
+Test 2
+
+//end::Test-02[]
+
+//end::Week-11[]
+
+
+== 2nd Quarter
+=== Module 3 -- Chapters 28-30
+
+==== Week 12
+//tag::Week-12[]
+//tag::Weekly-Overview-12[]
+12
+
+//end::Weekly-Overview-12[]
+
+//tag::Assignment-041[]
+===== Monday, October 7, 2024
+
+//end::Assignment-041[]
+//tag::Assignment-042[]
+===== Tuesday, October 8, 2024
+
+//end::Assignment-042[]
+//tag::Assignment-043[]
+===== Wednesday, October 9, 2024
+
+//end::Assignment-043[]
+//tag::Assignment-044[]
+===== Thursday, October 10, 2024
+
+//end::Assignment-044[]
+//tag::Assignment-045[]
+===== Friday, October 11, 2024
+
+//end::Assignment-045[]
+//tag::Quiz-07[]
+Quiz 7
+
+//end::Quiz-07[]
+//end::Week-12[]
+
+==== Week 13
+//tag::Week-13[]
+//tag::Weekly-Overview-13[]
+13
+
+//end::Weekly-Overview-13[]
+//tag::Assignment-046[]
+===== Monday, October 14, 2024
+
+//end::Assignment-046[]
+//tag::Assignment-047[]
+===== Tuesday, October 15, 2024
+
+//end::Assignment-047[]
+//tag::Assignment-048[]
+===== Wednesday, October 16, 2024
+
+//end::Assignment-048[]
+//tag::Assignment-049[]
+===== Thursday, October 17, 2024
+
+//end::Assignment-049[]
+//tag::Assignment-050[]
+===== Friday, October 18, 2024
+
+//end::Assignment-050[]
+//tag::Quiz-08[]
+Quiz 8
+
+//end::Quiz-08[]
+//end::Week-13[]
+
+==== Week 14
+//tag::Week-14[]
+//tag::Weekly-Overview-14[]
+14
+
+//end::Weekly-Overview-14[]
+//tag::Assignment-051[]
+===== Monday, October 21, 2024
+
+//end::Assignment-051[]
+//tag::Assignment-052[]
+===== Tuesday, October 22, 2024
+*Seminar Day*
+
+//end::Assignment-052[]
+//tag::Assignment-053[]
+===== Wednesday, October 23, 2024
+
+//end::Assignment-053[]
+//tag::Assignment-054[]
+===== Thursday, October 24, 2024
+
+//end::Assignment-054[]
+//tag::Assignment-055[]
+===== Friday, October 25, 2024
+
+//end::Assignment-055[]
+//tag::Quiz-09[]
+Quiz 9
+
+//end::Quiz-09[]
+//end::Week-14[]
+
+
+==== Week 15
+//tag::Week-15[]
+//tag::Weekly-Overview-15[]
+15
+
+//end::Weekly-Overview-15[]
+
+//tag::Assignment-056[]
+===== Monday, October 28, 2024
+
+//end::Assignment-056[]
+//tag::Assignment-057[]
+===== Tuesday, October 29, 2024
+
+//end::Assignment-057[]
+//tag::Assignment-058[]
+===== Wednesday, October 30, 2024
+
+//end::Assignment-058[]
+//tag::Assignment-059[]
+===== Thursday, October 31, 2024
+
+//end::Assignment-059[]
+//tag::Assignment-060[]
+===== Friday, November 1, 2024
+
+//end::Assignment-060[]
+//tag::Quiz-10[]
+Quiz 10
+
+//end::Quiz-10[]
+//end::Week-15[]
+
+==== Week 16
+//tag::Week-16[]
+//tag::Weekly-Overview-16[]
+16
+
+//end::Weekly-Overview-16[]
+
+//tag::Assignment-061[]
+===== Monday, November 4, 2024
+
+//end::Assignment-061[]
+//tag::Assignment-062[]
+===== Tuesday, November 5, 2024
+*Satellite Day*
+
+//end::Assignment-062[]
+//tag::Assignment-063[]
+===== Wednesday, November 6, 2024
+
+//end::Assignment-063[]
+//tag::Assignment-064[]
+===== Thursday, November 7, 2024
+
+//end::Assignment-064[]
+//tag::Assignment-065[]
+===== Friday, November 8, 2024
+
+//end::Assignment-065[]
+//tag::Test-03[]
+Test 3
+
+//end::Test-03[]
+//end::Week-16[]
+
+
+=== Module 4 -- Chapters 31-32
+
+==== Week 17
+//tag::Week-17[]
+//tag::Weekly-Overview-17[]
+17
+
+//end::Weekly-Overview-17[]
+
+//tag::Assignment-066[]
+===== Monday, November 11, 2024
+
+//end::Assignment-066[]
+//tag::Assignment-067[]
+===== Tuesday, November 12, 2024
+
+//end::Assignment-067[]
+//tag::Assignment-068[]
+===== Wednesday, November 13, 2024
+
+//end::Assignment-068[]
+//tag::Assignment-069[]
+===== Thursday, November 14, 2024
+
+//end::Assignment-069[]
+//tag::Assignment-070[]
+===== Friday, November 15, 2024
+
+//end::Assignment-070[]
+//tag::Quiz-11[]
+Quiz 11
+
+//end::Quiz-11[]
+//end::Week-17[]
+
+==== Week 18
+//tag::Week-18[]
+//tag::Weekly-Overview-18[]
+18
+
+//end::Weekly-Overview-18[]
+
+//tag::Assignment-071[]
+===== Monday, November 18, 2024
+
+//end::Assignment-071[]
+//tag::Assignment-072[]
+===== Tuesday, November 19, 2024
+*Chapel Day*
+
+//end::Assignment-072[]
+//tag::Assignment-073[]
+===== Wednesday, November 20, 2024
+
+//end::Assignment-073[]
+//tag::Assignment-074[]
+===== Thursday, November 21, 2024
+
+//end::Assignment-074[]
+//tag::Assignment-075[]
+===== Friday, November 22, 2024
+
+//end::Assignment-075[]
+//tag::Quiz-12[]
+Quiz 12
+
+//end::Quiz-12[]
+//end::Week-18[]
+
+==== Week 19
+//tag::Week-19[]
+//tag::Weekly-Overview-19[]
+19
+
+//end::Weekly-Overview-19[]
+//end::Week-19[]
+
+==== Week 20
+//tag::Week-20[]
+//tag::Weekly-Overview-20[]
+20
+
+//end::Weekly-Overview-20[]
+
+//tag::Assignment-076[]
+===== Monday, December 2, 2024
+
+//end::Assignment-076[]
+//tag::Assignment-077[]
+===== Tuesday, December 3, 2024
+*Seminar Day*
+
+//end::Assignment-077[]
+//tag::Assignment-078[]
+===== Wednesday, December 4, 2024
+
+//end::Assignment-078[]
+//tag::Assignment-079[]
+===== Thursday, December 5, 2024
+
+//end::Assignment-079[]
+//tag::Assignment-080[]
+===== Friday, December 6, 2024
+
+//end::Assignment-080[]
+//tag::Quiz-13[]
+Quiz 13
+
+//end::Quiz-13[]
+//end::Week-20[]
+
+==== Week 21
+//tag::Week-21[]
+//tag::Weekly-Overview-21[]
+21
+
+//end::Weekly-Overview-21[]
+
+//tag::Assignment-081[]
+===== Monday, December 9, 2024
+
+//end::Assignment-081[]
+//tag::Assignment-082[]
+===== Tuesday, December 10, 2024
+
+//end::Assignment-082[]
+//tag::Assignment-083[]
+===== Wednesday, December 11, 2024
+
+//end::Assignment-083[]
+//tag::Assignment-084[]
+===== Thursday, December 12, 2024
+
+//end::Assignment-084[]
+//tag::Assignment-085[]
+===== Friday, December 13, 2024
+*Last Day of School*
+
+//end::Assignment-085[]
+//tag::Test-04[]
+Test 4
+
+//end::Test-04[]
+//end::Week-21[]
+
+
+
+
+
+
+
+== 3rd Quarter
+=== Module 5 -- Chapters 33-34
+==== Week 22
+//tag::Week-22[]
+22
+
+//tag::Weekly-Overview-22[]
+
+
+//end::Weekly-Overview-22[]
+//tag::Assignment-086[]
+===== Monday, December 30, 2024
+*Holiday*
+
+//end::Assignment-086[]
+//tag::Assignment-087[]
+===== Tuesday, December 31, 2024
+*Holiday*
+
+//end::Assignment-087[]
+//tag::Assignment-088[]
+===== Wednesday, January 1, 2024
+*Holiday*
+ 
+//end::Assignment-088[]
+//tag::Assignment-089[]
+===== Thursday, January 2, 2024
+*Satellite Day*
+
+//end::Assignment-089[]
+//tag::Assignment-090[]
+===== Friday, January 3, 2024
+*Satellite Day*
+
+//end::Assignment-090[]
+//end::Week-22[]
+Review Chapters 13-17
+
+
+==== Week 23
+//tag::Week-23[]
+//tag::Weekly-Overview-23[]
+23
+
+//end::Weekly-Overview-23[]
+*Teacher Work Day*
+//tag::Assignment-091[]
+===== Monday, January 6, 2025
+*Satellite Day*
+
+//end::Assignment-091[]
+*First Day Back in Class*
+//tag::Assignment-092[]
+===== Tuesday, January 7, 2025
+
+//end::Assignment-092[]
+//tag::Assignment-093[]
+===== Wednesday, January 8, 2025
+
+//end::Assignment-093[]
+//tag::Assignment-094[]
+===== Thursday, January 9, 2025
+
+//end::Assignment-094[]
+//tag::Assignment-095[]
+===== Friday, January 10, 2025
+
+//end::Assignment-095[]
+//tag::Quiz-14[]
+Quiz 14
+
+//end::Quiz-14[]
+//end::Week-23[]
+
+==== Week 24
+//tag::Week-24[]
+//tag::Weekly-Overview-24[]
+24
+
+//end::Weekly-Overview-24[]
+
+//tag::Assignment-096[]
+===== Monday, January 13, 2025
+
+//end::Assignment-096[]
+//tag::Assignment-097[]
+===== Tuesday, January 14, 2025
+
+//end::Assignment-097[]
+//tag::Assignment-098[]
+===== Wednesday, January 15, 2025
+
+//end::Assignment-098[]
+//tag::Assignment-099[]
+===== Thursday, January 16, 2025
+
+//end::Assignment-099[]
+//tag::Assignment-100[]
+===== Friday, January 17, 2025
+
+//end::Assignment-100[]
+//tag::Quiz-15[]
+Quiz 15
+
+//end::Quiz-15[]
+//end::Week-24[]
+
+
+==== Week 25
+//tag::Week-25[]
+Review Chapters 18-21
+//tag::Weekly-Overview-25[]
+25
+
+//end::Weekly-Overview-25[]
+//tag::Assignment-101[]
+===== Monday, January 20, 2025
+*Holiday-MLK Day*
+
+//end::Assignment-101[]
+//tag::Assignment-102[]
+===== Tuesday, January 21, 2025
+
+//end::Assignment-102[]
+//tag::Assignment-103[]
+===== Wednesday, January 22, 2025
+
+//end::Assignment-103[]
+//tag::Assignment-104[]
+===== Thursday, January 23, 2025
+
+//end::Assignment-104[]
+//tag::Assignment-105[]
+===== Friday, January 24, 2025
+
+//end::Assignment-105[]
+//tag::Quiz-16[]
+Quiz 16
+
+//end::Quiz-16[]
+//end::Week-25[]
+
+==== Week 26
+//tag::Week-26[]
+Review Chapters 22-24
+//tag::Weekly-Overview-26[]
+26
+
+//end::Weekly-Overview-26[]
+//tag::Assignment-106[]
+===== Monday, January 27, 2025
+
+//end::Assignment-106[]
+//tag::Assignment-107[]
+===== Tuesday, January 28, 2025
+
+//end::Assignment-107[]
+//tag::Assignment-108[]
+===== Wednesday, January 29, 2025
+
+//end::Assignment-108[]
+//tag::Assignment-109[]
+===== Thursday, January 30, 2025
+
+//end::Assignment-109[]
+//tag::Assignment-110[]
+===== Friday, January 31, 2025
+
+//end::Assignment-110[]
+//tag::Test-05[]
+Test 5
+
+//end::Test-05[]
+//end::Week-26[]
+
+=== Module 6 -- Chapters 35-36
+==== Week 27
+//tag::Week-27[]
+Review Chapters 25-27
+//tag::Weekly-Overview-27[]
+27
+
+//end::Weekly-Overview-27[]
+//tag::Assignment-111[]
+===== Monday, February 3, 2025
+
+//end::Assignment-111[]
+//tag::Assignment-112[]
+===== Tuesday, February 4, 2025
+
+//end::Assignment-112[]
+//tag::Assignment-113[]
+===== Wednesday, February 5, 2025
+
+//end::Assignment-113[]
+//tag::Assignment-114[]
+===== Thursday, February 6, 2025
+
+//end::Assignment-114[]
+//tag::Assignment-115[]
+===== Friday, February 7, 2025
+
+//end::Assignment-115[]
+//tag::Quiz-17[]
+Quiz 17
+
+//end::Quiz-17[]
+//end::Week-27[]
+
+
+==== Week 28
+//tag::Week-28[]
+//tag::Weekly-Overview-28[]
+28
+
+//end::Weekly-Overview-28[]
+//tag::Assignment-116[]
+===== Monday, February 10, 2025
+
+//end::Assignment-116[]
+//tag::Assignment-117[]
+===== Tuesday, February 11, 2025
+
+//end::Assignment-117[]
+//tag::Assignment-118[]
+===== Wednesday, February 12, 2025
+
+//end::Assignment-118[]
+//tag::Assignment-119[]
+===== Thursday, February 13, 2025
+
+//end::Assignment-119[]
+//tag::Assignment-120[]
+===== Friday, February 14, 2025
+
+//end::Assignment-120[]
+//tag::Quiz-18[]
+Quiz 18
+
+//end::Quiz-18[]
+//end::Week-28[]
+
+==== Week 29
+//tag::Week-29[]
+//tag::Weekly-Overview-29[]
+29
+
+//end::Weekly-Overview-29[]
+//tag::Assignment-121[]
+===== Monday, February 17, 2025
+
+//end::Assignment-121[]
+//tag::Assignment-122[]
+===== Tuesday, February 18, 2025
+
+//end::Assignment-122[]
+//tag::Assignment-123[]
+===== Wednesday, February 19, 2025
+
+//end::Assignment-123[]
+//tag::Assignment-124[]
+===== Thursday, February 20, 2025
+
+//end::Assignment-124[]
+//tag::Assignment-125[]
+===== Friday, February 21, 2025
+*Winter Holiday*
+
+//end::Assignment-125[]
+//tag::Quiz-19[]
+Quiz 19
+
+//end::Quiz-19[]
+
+//end::Week-29[]
+
+
+==== Week 30
+//tag::Week-30[]
+//tag::Weekly-Overview-30[]
+30
+
+//end::Weekly-Overview-30[]
+
+//tag::Assignment-126[]
+===== Monday, February 24, 2025
+
+//end::Assignment-126[]
+//tag::Assignment-127[]
+===== Tuesday, February 25, 2025
+
+//end::Assignment-127[]
+//tag::Assignment-128[]
+===== Wednesday, February 26, 2025
+
+//end::Assignment-128[]
+//tag::Assignment-129[]
+===== Thursday, February 27, 2025
+
+//end::Assignment-129[]
+//tag::Assignment-130[]
+===== Friday, February 28, 2025
+
+//end::Assignment-130[]
+//tag::Quiz-20[]
+Quiz 20
+
+//end::Quiz-20[]
+//end::Week-30[]
+
+==== Week 31
+//tag::Week-31[]
+//tag::Weekly-Overview-31[]
+31
+
+//end::Weekly-Overview-31[]
+//tag::Assignment-131[]
+===== Monday, March 3, 2025
+
+//end::Assignment-131[]
+//tag::Assignment-132[]
+===== Tuesday, March 4, 2025
+
+//end::Assignment-132[]
+//tag::Assignment-133[]
+===== Wednesday, March 5, 2025
+
+//end::Assignment-133[]
+//tag::Assignment-134[]
+===== Thursday, March 6, 2025
+
+//end::Assignment-134[]
+//tag::Assignment-135[]
+===== Friday, March 7, 2025
+
+//end::Assignment-135[]
+//tag::Test-06[]
+Test 6
+
+//end::Test-06[]
+//end::Week-31[]
+
+
+== 4th Quarter
+=== Module 7 -- Chapters 37-38
+==== Week 32
+//tag::Week-32[]
+//tag::Weekly-Overview-32[]
+32
+
+//end::Weekly-Overview-32[]
+//tag::Assignment-136[]
+===== Monday, March 10, 2025
+
+//end::Assignment-136[]
+//tag::Assignment-137[]
+===== Tuesday, March 11, 2025
+
+//end::Assignment-137[]
+//tag::Assignment-138[]
+===== Wednesday, March 12, 2025
+
+//end::Assignment-138[]
+//tag::Assignment-139[]
+===== Thursday, March 13, 2025
+
+//end::Assignment-139[]
+//tag::Assignment-140[]
+===== Friday, March 14, 2025
+
+//end::Assignment-140[]
+//tag::Quiz-21[]
+Quiz 21
+
+//end::Quiz-21[]
+//end::Week-32[]
+
+
+==== Week 33
+//tag::Week-33[]
+//tag::Weekly-Overview-33[]
+33
+
+//end::Weekly-Overview-33[]
+
+//tag::Assignment-141[]
+===== Monday, March 17, 2025
+
+//end::Assignment-141[]
+//tag::Assignment-142[]
+===== Tuesday, March 18, 2025
+*Seminar Day*
+
+
+//end::Assignment-142[]
+//tag::Assignment-143[]
+===== Wednesday, March 19, 2025
+
+//end::Assignment-143[]
+//tag::Assignment-144[]
+===== Thursday, March 20, 2025
+
+//end::Assignment-144[]
+//tag::Assignment-145[]
+===== Friday, March 21, 2025
+
+//end::Assignment-145[]
+//tag::Quiz-22[]
+Quiz 22
+
+//end::Quiz-22[]
+//end::Week-33[]
+
+==== Week 34
+//tag::Week-34[]
+//tag::Weekly-Overview-34[]
+34
+
+//end::Weekly-Overview-34[]
+
+//tag::Assignment-146[]
+===== Monday, March 24, 2025
+
+//end::Assignment-146[]
+//tag::Assignment-147[]
+===== Tuesday, March 25, 2025
+
+//end::Assignment-147[]
+//tag::Assignment-148[]
+===== Wednesday, March 26, 2025
+
+//end::Assignment-148[]
+//tag::Assignment-149[]
+===== Thursday, March 27, 2025
+
+//end::Assignment-149[]
+//tag::Assignment-150[]
+===== Friday, March 28, 2025
+
+//end::Assignment-150[]
+//tag::Quiz-23[]
+Quiz 23
+
+//end::Quiz-23[]
+//end::Week-34[]
+
+
+
+
+==== Week 35
+//tag::Week-35[]
+//tag::Weekly-Overview-35[]
+35
+
+//end::Weekly-Overview-35[]
+
+//tag::Assignment-151[]
+===== Monday, March 31, 2025
+
+//end::Assignment-151[]
+//tag::Assignment-152[]
+===== Tuesday, April 1, 2025
+
+//end::Assignment-152[]
+//tag::Assignment-153[]
+===== Wednesday, April 2, 2025
+
+//end::Assignment-153[]
+//tag::Assignment-154[]
+===== Thursday, April 3, 2025
+
+//end::Assignment-154[]
+//tag::Assignment-155[]
+===== Friday, April 4, 2025
+
+//end::Assignment-155[]
+//tag::Test-07[]
+Test 7
+
+//end::Test-07[]
+//end::Week-35[]
+
+=== Module 8 -- Chapter 39
+
+==== Week 36
+//tag::Week-36[]
+//tag::Weekly-Overview-36[]
+36
+
+//end::Weekly-Overview-36[]
+
+
+//end::Week-36[]
+
+==== Week 37
+//tag::Week-37[]
+//tag::Weekly-Overview-37[]
+37
+
+//end::Weekly-Overview-37[]
+//tag::Assignment-156[]
+===== Monday, April 14, 2025
+
+//end::Assignment-156[]
+//tag::Assignment-157[]
+===== Tuesday, April 15, 2025
+
+//end::Assignment-157[]
+//tag::Assignment-158[]
+===== Wednesday, April 16, 2025
+
+//end::Assignment-158[]
+//tag::Assignment-159[]
+===== Thursday, April 17, 2025
+
+//end::Assignment-159[]
+//tag::Assignment-160[]
+===== Friday, April 18, 2025
+
+//end::Assignment-160[]
+//tag::Quiz-24[]
+Quiz 24
+
+//end::Quiz-24[]
+//end::Week-37[]
+
+==== Week 38
+//tag::Week-38[]
+//tag::Weekly-Overview-38[]
+38
+
+//end::Weekly-Overview-38[]
+
+//tag::Assignment-161[]
+===== Monday, April 21, 2025
+
+//end::Assignment-161[]
+//tag::Assignment-162[]
+===== Tuesday, April 22, 2025
+
+//end::Assignment-162[]
+//tag::Assignment-163[]
+===== Wednesday, April 23, 2025
+
+//end::Assignment-163[]
+//tag::Assignment-164[]
+===== Thursday, April 24, 2025
+
+//end::Assignment-164[]
+//tag::Assignment-165[]
+===== Friday, April 25, 2025
+
+//end::Assignment-165[]
+//tag::Quiz-25[]
+Quiz 25
+
+//end::Quiz-25[]
+//end::Week-38[]
+
+==== Week 39
+//tag::Week-39[]
+//tag::Weekly-Overview-39[]
+39
+
+//end::Weekly-Overview-39[]
+
+//tag::Assignment-166[]
+===== Monday, April 28, 2025
+
+//end::Assignment-166[]
+//tag::Assignment-167[]
+===== Tuesday, April 29, 2025
+
+//end::Assignment-167[]
+//tag::Assignment-168[]
+===== Wednesday, April 30, 2025
+
+//end::Assignment-168[]
+//tag::Assignment-169[]
+===== Thursday, May 1, 2025
+
+//end::Assignment-169[]
+//tag::Assignment-170[]
+===== Friday, May 2, 2025
+
+//end::Assignment-170[]
+//tag::Quiz-26[]
+Quiz 26
+
+//end::Quiz-26[]
+//end::Week-39[]
+
+
+==== Week 40
+//tag::Week-40[]
+//tag::Weekly-Overview-40[]
+40
+
+//end::Weekly-Overview-40[]
+
+//tag::Assignment-171[]
+===== Monday, May 5, 2025
+
+//end::Assignment-171[]
+//tag::Assignment-172[]
+===== Tuesday, May 6, 2025
+
+//end::Assignment-172[]
+//tag::Assignment-173[]
+===== Wednesday, May 7, 2025
+
+//end::Assignment-173[]
+//tag::Assignment-174[]
+===== Thursday, May 8, 2025
+
+//end::Assignment-174[]
+//tag::Assignment-175[]
+===== Friday, May 9, 2025
+
+//end::Assignment-175[]
+//tag::Quiz-27[]
+Quiz 27
+
+//end::Quiz-27[]
+//end::Week-40[]
+
+==== Week 41
+//tag::Week-41[]
+//tag::Weekly-Overview-41[]
+41
+
+//end::Weekly-Overview-41[]
+
+//tag::Assignment-176[]
+===== Monday, May 12, 2025
+
+//end::Assignment-176[]
+//tag::Assignment-177[]
+===== Tuesday, May 13, 2025
+
+//end::Assignment-177[]
+//tag::Assignment-178[]
+===== Wednesday, May 14, 2025
+
+//end::Assignment-178[]
+//tag::Assignment-179[]
+===== Thursday, May 15, 2025
+
+//end::Assignment-179[]
+//tag::Assignment-180[]
+===== Friday, May 16, 2025
+
+//end::Assignment-180[]
+//tag::Test-08[]
+Test 8
+
+//end::Test-08[]
+//end::Week-41[]
+
+
+
+
+
+
+
