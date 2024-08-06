@@ -13,6 +13,8 @@
 ==== Week 1
 //tag::Week-1[]
 //tag::Weekly-Overview-1[]
+July 22-26
+
 There is no "Launch Work."
 //end::Weekly-Overview-1[]
 //end::Week-1[]
@@ -20,6 +22,8 @@ There is no "Launch Work."
 ==== Week 2
 //tag::Week-2
 //tag::Weekly-Overview-2[]
+July 29-Aug 2
+
 There is no "Launch Work."
 //end::Weekly-Overview-2[]
 //end::Week-2[]
@@ -29,7 +33,9 @@ There is no "Launch Work."
 Chapters 1-7
 
 //tag::Weekly-Overview-3[]
+We will study chapter 1.
 
+We will start studying chapter 2.
 
 //end::Weekly-Overview-3[]
 //tag::Assignment-001[]
@@ -41,13 +47,25 @@ No work
 ===== Tuesday, August 6, 2024
 We will cover the sysabus and discuss homework for the week.
 
+We started the homework for chapter 1.
+
 //end::Assignment-002[]
 //tag::Assignment-003[]
 ===== Wednesday, August 7, 2024
+Finish translating the sentences for chapter 1.
+
+Study the verb endings from chapter 1.
+
+Begin reviewing the vocabulary for chapters 1 and 2.
  
 //end::Assignment-003[]
 //tag::Assignment-004[]
 ===== Thursday, August 8, 2024
+Finish translating the sentences for chapter 1.
+
+Study the verb endings from chapter 1.
+
+Begin reviewing the vocabulary for chapters 1 and 2.
 
 //end::Assignment-004[]
 //tag::Assignment-005[]
