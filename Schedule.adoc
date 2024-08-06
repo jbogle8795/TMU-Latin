@@ -33,6 +33,8 @@ There is no "Launch Work."
 Chapters 1-7
 
 //tag::Weekly-Overview-3[]
+Aug 5-9
+
 We will study chapter 1.
 
 We will start studying chapter 2.
@@ -45,7 +47,7 @@ No work
 //end::Assignment-001[]
 //tag::Assignment-002[]
 ===== Tuesday, August 6, 2024
-We will cover the sysabus and discuss homework for the week.
+We will cover the syllabus and discuss homework for the week.
 
 We started the homework for chapter 1.
 
