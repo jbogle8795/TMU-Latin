@@ -47,18 +47,23 @@ No work
 //end::Assignment-001[]
 //tag::Assignment-002[]
 ===== Tuesday, August 6, 2024
-We will cover the syllabus and discuss homework for the week.
+We covered the syllabus and discussed homework for the week.
 
 We started the homework for chapter 1.
+
+https://drive.google.com/file/d/1OqWMBNDcFYhdpNPOOf1KwIVxZhN-EOlB/view?usp=sharing[Chapter 1 Homework]
 
 //end::Assignment-002[]
 //tag::Assignment-003[]
 ===== Wednesday, August 7, 2024
 Finish translating the sentences for chapter 1.
 
-Study the verb endings from chapter 1.
+Begin studying the verb endings from chapter 1.
 
 Begin reviewing the vocabulary for chapters 1 and 2.
+
+https://drive.google.com/file/d/1A70nrAUy-A_WOe77dW66EiYtrfc0_oGE/view?usp=share_link[Chapter 1 and 2 Voabulary]
+
  
 //end::Assignment-003[]
 //tag::Assignment-004[]
@@ -67,17 +72,22 @@ Upload the homework for chapter 1.
 
 Study the verb endings from chapter 1.
 
-Begin reviewing the vocabulary for chapters 1 and 2.
+Study the vocabulary for chapters 1 and 2.
+
+https://drive.google.com/file/d/1A70nrAUy-A_WOe77dW66EiYtrfc0_oGE/view?usp=share_link[Chapter 1 and 2 Voabulary]
+
 
 //end::Assignment-004[]
 //tag::Assignment-005[]
 ===== Friday, August 9, 2024
+We will learn about first declension nouns and adjectives.
+
+We will translate most of the homework for chapter 2.
+
+https://drive.google.com/file/d/1OladSAbdcO7Wsa3xBsJEqa_QADbUAKuy/view?usp=sharing[Chapter 2 Homework]
 
 //end::Assignment-005[]
-//tag::Quiz-01[]
-Quiz 1
 
-//end::Quiz-01[]
 //end::Week-3[]
 
 
@@ -91,14 +101,32 @@ Chapters 8-12
 //end::Weekly-Overview-4[]
 //tag::Assignment-006[]
 ===== Monday, August 12, 2024
+Upload the homework for chapter 2.
 
+Study the verb endings from chapter 1.
+
+Study the noun endings from chapter 2.
+
+Study the vocabulary for chapters 1 and 2.
 //end::Assignment-006[]
+
+//tag::Quiz-01[]
+We will have a quiz over the vocabulary, grammar, and translations from chapters 1 and 2.
+
+//end::Quiz-01[]
 //tag::Assignment-007[]
 ===== Tuesday, August 13, 2024
+We will learn about second declension masculine nouns and adjectives as well as apposition.
+
+We will translate most of the homework for chapter 3.
+
+https://drive.google.com/file/d/1OmGNkAhGTdaLhmG7YTlfBvXSyW4MTdZG/view?usp=sharing[Chapter 3 Homework]
 
 //end::Assignment-007[]
 //tag::Assignment-008[]
 ===== Wednesday, August 14, 2024
+
+https://drive.google.com/file/d/1OphxduV7WujulzLsxwIeXoXO_XWuT71U/view?usp=share_link[Chapter 3 Vocabulary]
 
 //end::Assignment-008[]
 //tag::Assignment-009[]
@@ -107,11 +135,13 @@ Chapters 8-12
 //end::Assignment-009[]
 //tag::Assignment-010[]
 ===== Friday, August 16, 2024
+We will translate a story in class.
+
+//https://drive.google.com/file/d/1OmV19I2sgJsoaPeLTGu82G-Pj0mQygo_/view?usp=sharing[Chapter 3 Story]
 
 //end::Assignment-010[]
 //tag::Quiz-02[]
-Quiz 2
-
+We will have a quiz over the vocabulary, grammar, and translations from chapter 3
 //end::Quiz-02[]
 //end::Week-4[]
 
@@ -130,6 +160,11 @@ Chapters 13-17
 //end::Assignment-011[]
 //tag::Assignment-012[]
 ===== Tuesday, August 20, 2024
+We will learn about second declension neuter nouns and adjectives as well as substantives and forms of sum.
+
+We will translate most of the homework for chapter 4.
+
+https://drive.google.com/file/d/1OlC2evJRMQE3V3aQaWAyYig86PDubXgc/view?usp=sharing[Chapter 4 Homework]
 
 //end::Assignment-012[]
 //tag::Assignment-013[]
@@ -149,6 +184,47 @@ Quiz 3
 
 //end::Quiz-03[]
 //end::Week-5[]
+https://drive.google.com/file/d/1A70nrAUy-A_WOe77dW66EiYtrfc0_oGE/view?usp=sharing[Chapters 1 and 2 Vocabulary]
+
+https://drive.google.com/file/d/1OqWMBNDcFYhdpNPOOf1KwIVxZhN-EOlB/view?usp=sharing[Chapter 1 Homework]
+
+https://drive.google.com/file/d/1OladSAbdcO7Wsa3xBsJEqa_QADbUAKuy/view?usp=sharing[Chapter 2 Homework]
+
+https://drive.google.com/file/d/1OphxduV7WujulzLsxwIeXoXO_XWuT71U/view?usp=sharing[Chapter 3 Vocabulary]
+
+https://drive.google.com/file/d/1OmGNkAhGTdaLhmG7YTlfBvXSyW4MTdZG/view?usp=sharing[Chapter 3 Homework]
+
+https://drive.google.com/file/d/1OmV19I2sgJsoaPeLTGu82G-Pj0mQygo_/view?usp=sharing[Chapter 3 Story]
+
+https://drive.google.com/file/d/1OoVag_dA8ARAIj2Pl727KlzV_t8HzYh7/view?usp=sharing[Chapter 4 Vocabulary]
+
+https://drive.google.com/file/d/1OnHL1RdhkyD_JU0OYUGEFSjoUp-nMIuJ/view?usp=sharing[Chapter 4 Story]
+
+https://drive.google.com/file/d/1OlC2evJRMQE3V3aQaWAyYig86PDubXgc/view?usp=sharing[Chapter 4 Homework]
+
+https://drive.google.com/file/d/1OoQ1xVSs64KbuJEk4KV6yzQXEzWmm2jr/view?usp=sharing[Chapter 5 Vocabulary]
+
+https://drive.google.com/file/d/1OqCdbdTJ4ujUSYBAlyVPb-XaE5s5IuHm/view?usp=sharing[Chapter 5 Homework]
+
+https://drive.google.com/file/d/1OqN_3-ngofLc2C2GR0Bvfbpc5dAfGrkS/view?usp=sharing[Chapter 5 Story]
+
+https://drive.google.com/file/d/1OpQ7U8nzoFj0VkocVH4KJzS8OG5q8Ecp/view?usp=sharing[Chapter 6 Vocabulary]
+
+https://drive.google.com/file/d/1OnZ3FdygTdtwr9v4yI-XXMEGt19CFM9V/view?usp=sharing[Chapter 6 Homework]
+
+https://drive.google.com/file/d/1Oo2lhsKlCIDtUc0fZnYRaTE6rCy22YfU/view?usp=sharing[Chapter 6 Story]
+
+https://drive.google.com/file/d/1OpHGZ-rP5bunDBuG6Z92R09_3ZNoa2gN/view?usp=sharing[Chapter 7 Vocabulary]
+
+https://drive.google.com/file/d/1Oo6Cp7M6Bkg48OSFmIkGR101_iCIZAgA/view?usp=sharing[Chapter 7 Homework]
+
+https://drive.google.com/file/d/1OoEJScryLmCn5J-Gzz8kuOwwz7QWG4t8/view?usp=sharing[Chapter 7 Story]
+
+
+
+
+
+
 
 
 ==== Week 6
