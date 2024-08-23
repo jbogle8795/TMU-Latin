@@ -6,6 +6,7 @@
 :sectanchors:
 :sectnums:
 :sectnumlevels: 2
+:ch7voc: https://drive.google.com/file/d/1OpHGZ-rP5bunDBuG6Z92R09_3ZNoa2gN/view?usp=share_link[Chapter 7 Vocabulary] https://drive.google.com/file/d/1OqWMBNDcFYhdpNPOOf1KwIVxZhN-EOlB/view?usp=sharing[Chapter 1 Homework]
 
 
 == 1st Quarter
@@ -233,71 +234,51 @@ We will have a quiz over the chapter 4 vocabulary and the 1st and 2nd Declension
 
 //end::Week-5[]
 
-https://drive.google.com/file/d/1A70nrAUy-A_WOe77dW66EiYtrfc0_oGE/view?usp=sharing[Chapters 1 and 2 Vocabulary]
-
-https://drive.google.com/file/d/1OqWMBNDcFYhdpNPOOf1KwIVxZhN-EOlB/view?usp=sharing[Chapter 1 Homework]
-
-https://drive.google.com/file/d/1OladSAbdcO7Wsa3xBsJEqa_QADbUAKuy/view?usp=sharing[Chapter 2 Homework]
-
-https://drive.google.com/file/d/1OphxduV7WujulzLsxwIeXoXO_XWuT71U/view?usp=sharing[Chapter 3 Vocabulary]
-
-https://drive.google.com/file/d/1OmGNkAhGTdaLhmG7YTlfBvXSyW4MTdZG/view?usp=sharing[Chapter 3 Homework]
-
-https://drive.google.com/file/d/1OmV19I2sgJsoaPeLTGu82G-Pj0mQygo_/view?usp=sharing[Chapter 3 Story]
-
-https://drive.google.com/file/d/1OoVag_dA8ARAIj2Pl727KlzV_t8HzYh7/view?usp=sharing[Chapter 4 Vocabulary]
-
-https://drive.google.com/file/d/1OnHL1RdhkyD_JU0OYUGEFSjoUp-nMIuJ/view?usp=sharing[Chapter 4 Story]
-
-https://drive.google.com/file/d/1OlC2evJRMQE3V3aQaWAyYig86PDubXgc/view?usp=sharing[Chapter 4 Homework]
-
-https://drive.google.com/file/d/1OoQ1xVSs64KbuJEk4KV6yzQXEzWmm2jr/view?usp=sharing[Chapter 5 Vocabulary]
-
-https://drive.google.com/file/d/1OqCdbdTJ4ujUSYBAlyVPb-XaE5s5IuHm/view?usp=sharing[Chapter 5 Homework]
-
-https://drive.google.com/file/d/1OqN_3-ngofLc2C2GR0Bvfbpc5dAfGrkS/view?usp=sharing[Chapter 5 Story]
-
-https://drive.google.com/file/d/1OpQ7U8nzoFj0VkocVH4KJzS8OG5q8Ecp/view?usp=sharing[Chapter 6 Vocabulary]
-
-https://drive.google.com/file/d/1OnZ3FdygTdtwr9v4yI-XXMEGt19CFM9V/view?usp=sharing[Chapter 6 Homework]
-
-https://drive.google.com/file/d/1Oo2lhsKlCIDtUc0fZnYRaTE6rCy22YfU/view?usp=sharing[Chapter 6 Story]
-
-https://drive.google.com/file/d/1OpHGZ-rP5bunDBuG6Z92R09_3ZNoa2gN/view?usp=sharing[Chapter 7 Vocabulary]
-
-https://drive.google.com/file/d/1Oo6Cp7M6Bkg48OSFmIkGR101_iCIZAgA/view?usp=sharing[Chapter 7 Homework]
-
-https://drive.google.com/file/d/1OoEJScryLmCn5J-Gzz8kuOwwz7QWG4t8/view?usp=sharing[Chapter 7 Story]
-
-
-
-
-
 
 
 
 ==== Week 6
 //tag::Week-6[]
-Chaptes 1-17
+
 
 //tag::Weekly-Overview-6[]
-6
+We will learn the future and imperfect tenses of the 1st and 2nd conjugation. We will also look at adjectives ending in -er.
 
 //end::Weekly-Overview-6[]
 //tag::Assignment-016[]
 ===== Monday, August 26, 2024
+Study
+https://drive.google.com/file/d/1OoQ1xVSs64KbuJEk4KV6yzQXEzWmm2jr/view?usp=sharing[Chapter 5 Vocabulary].
+
+Complete and Submit
+https://drive.google.com/file/d/1OqCdbdTJ4ujUSYBAlyVPb-XaE5s5IuHm/view?usp=sharing[Chapter 5 Homework].
 
 //end::Assignment-016[]
 //tag::Assignment-017[]
 ===== Tuesday, August 27, 2024
 
+// Make suplimental reading.
+
 //end::Assignment-017[]
 //tag::Assignment-018[]
 ===== Wednesday, August 28, 2024
+Study
+https://drive.google.com/file/d/1OoQ1xVSs64KbuJEk4KV6yzQXEzWmm2jr/view?usp=sharing[Chapter 5 Vocabulary].
+
+Translate
+https://drive.google.com/file/d/1OqN_3-ngofLc2C2GR0Bvfbpc5dAfGrkS/view?usp=sharing[Chapter 5 Story].
+
 
 //end::Assignment-018[]
 //tag::Assignment-019[]
 ===== Thursday, August 29, 2024
+Study
+https://drive.google.com/file/d/1OoQ1xVSs64KbuJEk4KV6yzQXEzWmm2jr/view?usp=sharing[Chapter 5 Vocabulary].
+
+Submit 
+//  suplimental reading.
+and
+https://drive.google.com/file/d/1OqN_3-ngofLc2C2GR0Bvfbpc5dAfGrkS/view?usp=sharing[Chapter 5 Story]
 
 //end::Assignment-019[]
 //tag::Assignment-020[]
@@ -305,7 +286,10 @@ Chaptes 1-17
 
 //end::Assignment-020[]
 //tag::Quiz-04[]
-Quiz 4
+We will have a quiz over 
+https://drive.google.com/file/d/1OoQ1xVSs64KbuJEk4KV6yzQXEzWmm2jr/view?usp=sharing[Chapter 5 Vocabulary],
+the present, imperfect, and future tenses, and adjectives. 
+
 
 //end::Quiz-04[]
 //end::Week-6[]
@@ -327,36 +311,46 @@ Chapters 1-17
 ===== Tuesday, September 3, 2024
 *Satellite Day*
 
+// more suplimental reading.
+
+
 //end::Assignment-022[]
 //tag::Assignment-023[]
 ===== Wednesday, September 4, 2024
 
+// more suplimental reading.
+
 //end::Assignment-023[]
 //tag::Assignment-024[]
 ===== Thursday, September 5, 2024
+
+// more suplimental reading.
 
 //end::Assignment-024[]
 //tag::Assignment-025[]
 ===== Friday, September 6, 2024
 
 //end::Assignment-025[]
-//tag::Test-01[]
-Test 1
 
-//end::Test-01[]
 //end::Week-7[]
 
 === Module 2 -- Review 2
 ==== Week 8
 //tag::Week-8[]
-Chapters 18-21
+
 
 //tag::Weekly-Overview-8[]
-8
+
 
 //end::Weekly-Overview-8[]
 //tag::Assignment-026[]
 ===== Monday, September 9, 2024
+
+Study
+https://drive.google.com/file/d/1OpQ7U8nzoFj0VkocVH4KJzS8OG5q8Ecp/view?usp=share_link[Chapter 6 Vocabulary] df https://drive.google.com/file/d/1OnZ3FdygTdtwr9v4yI-XXMEGt19CFM9V/view?usp=share_link[Chapter 6 Homework]
+
+Study {ch7voc}.
+
 
 //end::Assignment-026[]
 //tag::Assignment-027[]
@@ -365,10 +359,13 @@ Chapters 18-21
 //end::Assignment-027[]
 //tag::Assignment-028[]
 ===== Wednesday, September 11, 2024
+https://drive.google.com/file/d/1Oo2lhsKlCIDtUc0fZnYRaTE6rCy22YfU/view?usp=share_link[Chapter 6 Story]
 
 //end::Assignment-028[]
 //tag::Assignment-029[]
 ===== Thursday, September 12, 2024
+
+https://drive.google.com/file/d/1Oo2lhsKlCIDtUc0fZnYRaTE6rCy22YfU/view?usp=share_link[Chapter 6 Story]
 
 //end::Assignment-029[]
 //tag::Assignment-030[]
@@ -392,6 +389,16 @@ Chapters 22-27
 //end::Weekly-Overview-9[]
 //tag::Assignment-031[]
 ===== Monday, September 16, 2024
+
+Study
+https://drive.google.com/file/d/1OpHGZ-rP5bunDBuG6Z92R09_3ZNoa2gN/view?usp=share_link[Chapter 7 Vocabulary].
+
+
+
+
+https://drive.google.com/file/d/1OoEJScryLmCn5J-Gzz8kuOwwz7QWG4t8/view?usp=share_link[Chapter 7 Story]
+
+https://drive.google.com/file/d/1Oo6Cp7M6Bkg48OSFmIkGR101_iCIZAgA/view?usp=share_link[Chapter 7 Homework]
 
 //end::Assignment-031[]
 //tag::Assignment-032[]
@@ -453,6 +460,11 @@ Chapters 18-27
 ===== Friday, October 4, 2024
 
 //end::Assignment-040[]
+
+//tag::Test-01[]
+Test 1
+
+//end::Test-01[]
 //tag::Test-02[]
 Test 2
 
