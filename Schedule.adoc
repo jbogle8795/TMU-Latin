@@ -372,7 +372,7 @@ https://drive.google.com/file/d/1OoQ1xVSs64KbuJEk4KV6yzQXEzWmm2jr/view?usp=shari
 ===== Monday, September 9, 2024
 
 Study
-https://drive.google.com/file/d/1OpQ7U8nzoFj0VkocVH4KJzS8OG5q8Ecp/view?usp=share_link[Chapter 6 Vocabulary] df https://drive.google.com/file/d/1OnZ3FdygTdtwr9v4yI-XXMEGt19CFM9V/view?usp=share_link[Chapter 6 Homework]
+https://drive.google.com/file/d/1OpQ7U8nzoFj0VkocVH4KJzS8OG5q8Ecp/view?usp=share_link[Chapter 6 Vocabulary] https://drive.google.com/file/d/1OnZ3FdygTdtwr9v4yI-XXMEGt19CFM9V/view?usp=share_link[Chapter 6 Homework]
 
 Study {ch7voc}.
 
@@ -398,7 +398,7 @@ https://drive.google.com/file/d/1Oo2lhsKlCIDtUc0fZnYRaTE6rCy22YfU/view?usp=share
 
 //end::Assignment-030[]
 //tag::Quiz-05[]
-Quiz 5
+Quiz over chapter 6 vocabulary and grammar.
 
 //end::Quiz-05[]
 //end::Week-8[]
@@ -406,10 +406,12 @@ Quiz 5
 
 ==== Week 9
 //tag::Week-9[]
-Chapters 22-27
+Chapter 7
+
+https://drive.google.com/file/d/1OoEJScryLmCn5J-Gzz8kuOwwz7QWG4t8/view?usp=share_link[Chapter 7 Story]
 
 //tag::Weekly-Overview-9[]
-9
+We will learn about 3rd declension nouns.
 
 //end::Weekly-Overview-9[]
 //tag::Assignment-031[]
@@ -419,10 +421,7 @@ Study
 https://drive.google.com/file/d/1OpHGZ-rP5bunDBuG6Z92R09_3ZNoa2gN/view?usp=share_link[Chapter 7 Vocabulary].
 
 
-
-
-https://drive.google.com/file/d/1OoEJScryLmCn5J-Gzz8kuOwwz7QWG4t8/view?usp=share_link[Chapter 7 Story]
-
+Complete and submit
 https://drive.google.com/file/d/1Oo6Cp7M6Bkg48OSFmIkGR101_iCIZAgA/view?usp=share_link[Chapter 7 Homework]
 
 //end::Assignment-031[]
@@ -444,7 +443,7 @@ https://drive.google.com/file/d/1Oo6Cp7M6Bkg48OSFmIkGR101_iCIZAgA/view?usp=share
 
 //end::Assignment-035[]
 //tag::Quiz-06[]
-Quiz 6
+Quiz over chapter 7 vocabulary and grammar.
 
 //end::Quiz-06[]
 //end::Week-9[]
