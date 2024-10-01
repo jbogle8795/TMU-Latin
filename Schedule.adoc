@@ -499,7 +499,7 @@ Study for your test.
 //end::Assignment-040[]
 
 //tag::Test-01[]
-Test 1
+Test over chapters 1-7. It will cover the vocabulary and grammar from these chapters. 
 
 //end::Test-01[]
 //tag::Test-02[]
