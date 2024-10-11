@@ -516,7 +516,7 @@ Test 2
 ==== Week 12
 //tag::Week-12[]
 //tag::Weekly-Overview-12[]
-12
+We will cover 3rd conjugation presents, imperfects and futures.
 
 //end::Weekly-Overview-12[]
 
@@ -556,7 +556,7 @@ https://drive.google.com/file/d/11ENrejuFFu7XsM_gKZgWibrnEQV3sKdh/view?usp=share
 
 //end::Assignment-045[]
 //tag::Quiz-07[]
-Quiz 7
+We will have a quiz over chapter 8 vocabulary and 3rd conjugation presents, imperfects and futures.
 
 //end::Quiz-07[]
 //end::Week-12[]
@@ -564,11 +564,16 @@ Quiz 7
 ==== Week 13
 //tag::Week-13[]
 //tag::Weekly-Overview-13[]
-13
+We will cover several special adjectives.
 
 //end::Weekly-Overview-13[]
 //tag::Assignment-046[]
 ===== Monday, October 14, 2024
+Complete and upload the first page front and back of 
+https://drive.google.com/file/d/1100pUowpAR2vZN9_FLy_i0WX7T_O2VnN/view?usp=share_link[Chapter 9 Homework]
+
+Study
+https://drive.google.com/file/d/110X6BEhL1S0lVR_Le0anY1xygsC8E7hF/view?usp=share_link[Chapter 9 Vocabulary]
 
 //end::Assignment-046[]
 //tag::Assignment-047[]
@@ -577,10 +582,20 @@ Quiz 7
 //end::Assignment-047[]
 //tag::Assignment-048[]
 ===== Wednesday, October 16, 2024
+Complete the rest of
+https://drive.google.com/file/d/1100pUowpAR2vZN9_FLy_i0WX7T_O2VnN/view?usp=share_link[Chapter 9 Homework]
+
+Study
+https://drive.google.com/file/d/110X6BEhL1S0lVR_Le0anY1xygsC8E7hF/view?usp=share_link[Chapter 9 Vocabulary]
 
 //end::Assignment-048[]
 //tag::Assignment-049[]
 ===== Thursday, October 17, 2024
+Submit the rest of 
+https://drive.google.com/file/d/1100pUowpAR2vZN9_FLy_i0WX7T_O2VnN/view?usp=share_link[Chapter 9 Homework]
+
+Study
+https://drive.google.com/file/d/110X6BEhL1S0lVR_Le0anY1xygsC8E7hF/view?usp=share_link[Chapter 9 Vocabulary]
 
 //end::Assignment-049[]
 //tag::Assignment-050[]
@@ -588,7 +603,7 @@ Quiz 7
 
 //end::Assignment-050[]
 //tag::Quiz-08[]
-Quiz 8
+We will have a quiz over chapter 9 vocabulary and special adjectives.
 
 //end::Quiz-08[]
 //end::Week-13[]
