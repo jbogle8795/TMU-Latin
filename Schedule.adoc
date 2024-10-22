@@ -629,10 +629,18 @@ Study https://drive.google.com/file/d/13aK7kofFKOICRE1hfN0YV6FD7vwG6h45/view?usp
 //end::Assignment-052[]
 //tag::Assignment-053[]
 ===== Wednesday, October 23, 2024
+Complete the rest of 
+https://drive.google.com/file/d/13b7z2CTxwmpI-TVwEmR_VK660CsDVymu/view?usp=sharing[Chapter 10 Homework]
+
+Study https://drive.google.com/file/d/13aK7kofFKOICRE1hfN0YV6FD7vwG6h45/view?usp=sharing[Chapter 10 Vocabulary]
 
 //end::Assignment-053[]
 //tag::Assignment-054[]
 ===== Thursday, October 24, 2024
+Up the rest of
+https://drive.google.com/file/d/13b7z2CTxwmpI-TVwEmR_VK660CsDVymu/view?usp=sharing[Chapter 10 Homework]
+
+Study https://drive.google.com/file/d/13aK7kofFKOICRE1hfN0YV6FD7vwG6h45/view?usp=sharing[Chapter 10 Vocabulary]
 
 //end::Assignment-054[]
 //tag::Assignment-055[]
@@ -640,7 +648,7 @@ Study https://drive.google.com/file/d/13aK7kofFKOICRE1hfN0YV6FD7vwG6h45/view?usp
 
 //end::Assignment-055[]
 //tag::Quiz-09[]
-Quiz 9
+We will have a quiz focusing on vocabulary from chapter 10 and verb forms.
 
 //end::Quiz-09[]
 //end::Week-14[]
