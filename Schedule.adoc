@@ -706,19 +706,30 @@ Quiz 10
 
 //tag::Assignment-061[]
 ===== Monday, November 4, 2024
+Work on 
+https://drive.google.com/open?id=16qAgNNpiLyy2Irks9txlQmrtndRSDE4H&usp=drive_fs[Review Reading]
 
 //end::Assignment-061[]
 //tag::Assignment-062[]
 ===== Tuesday, November 5, 2024
 *Satellite Day*
 
+Work on 
+https://drive.google.com/open?id=16qAgNNpiLyy2Irks9txlQmrtndRSDE4H&usp=drive_fs[Review Reading]
+
 //end::Assignment-062[]
 //tag::Assignment-063[]
 ===== Wednesday, November 6, 2024
 
+Work on 
+https://drive.google.com/open?id=16qAgNNpiLyy2Irks9txlQmrtndRSDE4H&usp=drive_fs[Review Reading]
+
 //end::Assignment-063[]
 //tag::Assignment-064[]
 ===== Thursday, November 7, 2024
+
+Submit
+https://drive.google.com/open?id=16qAgNNpiLyy2Irks9txlQmrtndRSDE4H&usp=drive_fs[Review Reading]
 
 //end::Assignment-064[]
 //tag::Assignment-065[]
@@ -726,7 +737,7 @@ Quiz 10
 
 //end::Assignment-065[]
 //tag::Test-03[]
-Test 3
+
 
 //end::Test-03[]
 //end::Week-16[]
