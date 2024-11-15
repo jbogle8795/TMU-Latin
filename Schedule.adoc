@@ -807,6 +807,10 @@ Quiz 11
 //tag::Assignment-071[]
 ===== Monday, November 18, 2024
 
+Complete and upload the first page of the chapter 13 homework.
+
+Study https://drive.google.com/file/d/17oQgYtgzCpnczlnrQYKk8ji7gC1VuBfZ/view?usp=sharing[Chapter 13 Vocabulary]
+
 //end::Assignment-071[]
 //tag::Assignment-072[]
 ===== Tuesday, November 19, 2024
