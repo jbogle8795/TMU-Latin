@@ -860,6 +860,8 @@ Quiz 12
 //tag::Assignment-076[]
 ===== Monday, December 2, 2024
 
+Review material from chapters 8-13.
+
 //end::Assignment-076[]
 //tag::Assignment-077[]
 ===== Tuesday, December 3, 2024
