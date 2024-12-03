@@ -867,21 +867,31 @@ Review material from chapters 8-13.
 ===== Tuesday, December 3, 2024
 *Seminar Day*
 
+We did started a review section in class. 
+
+
 //end::Assignment-077[]
 //tag::Assignment-078[]
 ===== Wednesday, December 4, 2024
+
+The first two pages are the same as what I handed out in class. Finish the last three pages.
+https://drive.google.com/file/d/1ABBbF4JHWE1Yw5xc8IRJjHP_v7VLXkdQ/view?usp=sharing[Review 8-10]
 
 //end::Assignment-078[]
 //tag::Assignment-079[]
 ===== Thursday, December 5, 2024
 
+Upload the review for 8-10.
+
 //end::Assignment-079[]
 //tag::Assignment-080[]
 ===== Friday, December 6, 2024
 
+//work on review for 11-13.
+
 //end::Assignment-080[]
 //tag::Quiz-13[]
-Quiz 13
+//Quiz 13
 
 //end::Quiz-13[]
 //end::Week-20[]
