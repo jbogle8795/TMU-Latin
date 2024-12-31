@@ -965,10 +965,15 @@ Test 4
 ===== Thursday, January 2, 2024
 *Satellite Day*
 
+Review chapters 1-14 from the first semester.
+
 //end::Assignment-089[]
 //tag::Assignment-090[]
 ===== Friday, January 3, 2024
 *Satellite Day*
+
+Review chapters 1-14 from the first semester.
+
 
 //end::Assignment-090[]
 //end::Week-22[]
@@ -982,12 +987,17 @@ Review Chapters 13-17
 
 //end::Weekly-Overview-23[]
 *Teacher Work Day*
+
 //tag::Assignment-091[]
 ===== Monday, January 6, 2025
 *Satellite Day*
 
+Review chapters 1-14 from the first semester.
+
+
 //end::Assignment-091[]
 *First Day Back in Class*
+
 //tag::Assignment-092[]
 ===== Tuesday, January 7, 2025
 
