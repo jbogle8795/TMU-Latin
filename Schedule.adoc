@@ -983,7 +983,8 @@ Review Chapters 13-17
 ==== Week 23
 //tag::Week-23[]
 //tag::Weekly-Overview-23[]
-23
+
+We will learn numerals, genitive of the whole, and ablatives of time.
 
 //end::Weekly-Overview-23[]
 *Teacher Work Day*
@@ -1000,14 +1001,35 @@ Review chapters 1-14 from the first semester.
 
 //tag::Assignment-092[]
 ===== Tuesday, January 7, 2025
+We worked on
+https://drive.google.com/file/d/1E0Uh72clrn7hAz4dQUyPvv5JYXzvX-fd/view?usp=sharing[Chapter 15 Homework]
+
 
 //end::Assignment-092[]
 //tag::Assignment-093[]
 ===== Wednesday, January 8, 2025
 
+Study
+https://drive.google.com/file/d/1E0Uh72clrn7hAz4dQUyPvv5JYXzvX-fd/view?usp=sharing[Chapter 15 Vocabulary]
+
+Review
+https://drive.google.com/open?id=1E0ZJmR_koiDVL0y65bg8trFImLLgCWx9&usp=drive_fs[Numerals]
+
+Work on 
+https://drive.google.com/file/d/1E0Uh72clrn7hAz4dQUyPvv5JYXzvX-fd/view?usp=sharing[Chapter 15 Homework]
+
 //end::Assignment-093[]
 //tag::Assignment-094[]
 ===== Thursday, January 9, 2025
+
+Study
+https://drive.google.com/file/d/1E0Uh72clrn7hAz4dQUyPvv5JYXzvX-fd/view?usp=sharing[Chapter 15 Vocabulary]
+
+Review
+https://drive.google.com/open?id=1E0ZJmR_koiDVL0y65bg8trFImLLgCWx9&usp=drive_fs[Numerals]
+
+Finish and submit
+https://drive.google.com/file/d/1E0Uh72clrn7hAz4dQUyPvv5JYXzvX-fd/view?usp=sharing[Chapter 15 Homework]
 
 //end::Assignment-094[]
 //tag::Assignment-095[]
@@ -1015,7 +1037,9 @@ Review chapters 1-14 from the first semester.
 
 //end::Assignment-095[]
 //tag::Quiz-14[]
-Quiz 14
+
+Know the chapter 15 vocabulary, be familiar with the numerals, and review noun forms.
+
 
 //end::Quiz-14[]
 //end::Week-23[]
@@ -1148,6 +1172,7 @@ Review Chapters 25-27
 //tag::Assignment-115[]
 ===== Friday, February 7, 2025
 
+
 //end::Assignment-115[]
 //tag::Quiz-17[]
 Quiz 17
@@ -1236,6 +1261,7 @@ Quiz 19
 //end::Assignment-126[]
 //tag::Assignment-127[]
 ===== Tuesday, February 25, 2025
+Chapel Schedule
 
 //end::Assignment-127[]
 //tag::Assignment-128[]
@@ -1280,6 +1306,9 @@ Quiz 20
 //end::Assignment-134[]
 //tag::Assignment-135[]
 ===== Friday, March 7, 2025
+
+End of 3rd term
+
 
 //end::Assignment-135[]
 //tag::Test-06[]
@@ -1436,7 +1465,7 @@ Test 7
 36
 
 //end::Weekly-Overview-36[]
-
+Sping Break
 
 //end::Week-36[]
 
@@ -1453,6 +1482,8 @@ Test 7
 //tag::Assignment-157[]
 ===== Tuesday, April 15, 2025
 
+*Seminar Day*
+
 //end::Assignment-157[]
 //tag::Assignment-158[]
 ===== Wednesday, April 16, 2025
@@ -1464,6 +1495,8 @@ Test 7
 //end::Assignment-159[]
 //tag::Assignment-160[]
 ===== Friday, April 18, 2025
+
+*Good Friday*
 
 //end::Assignment-160[]
 //tag::Quiz-24[]
@@ -1519,6 +1552,8 @@ Quiz 25
 //tag::Assignment-167[]
 ===== Tuesday, April 29, 2025
 
+*Chapel Day*
+
 //end::Assignment-167[]
 //tag::Assignment-168[]
 ===== Wednesday, April 30, 2025
@@ -1552,6 +1587,7 @@ Quiz 26
 //end::Assignment-171[]
 //tag::Assignment-172[]
 ===== Tuesday, May 6, 2025
+*Last full day in class*
 
 //end::Assignment-172[]
 //tag::Assignment-173[]
@@ -1564,6 +1600,7 @@ Quiz 26
 //end::Assignment-174[]
 //tag::Assignment-175[]
 ===== Friday, May 9, 2025
+*1/2 day of testing*
 
 //end::Assignment-175[]
 //tag::Quiz-27[]
@@ -1585,8 +1622,19 @@ Quiz 27
 //end::Assignment-176[]
 //tag::Assignment-177[]
 ===== Tuesday, May 13, 2025
+*1/2 day of testing*
+
+*Final Day of School*
 
 //end::Assignment-177[]
+
+
+//tag::Test-08[]
+Test 8
+
+//end::Test-08[]
+
+
 //tag::Assignment-178[]
 ===== Wednesday, May 14, 2025
 
@@ -1598,11 +1646,10 @@ Quiz 27
 //tag::Assignment-180[]
 ===== Friday, May 16, 2025
 
-//end::Assignment-180[]
-//tag::Test-08[]
-Test 8
+*Teacher work day*
 
-//end::Test-08[]
+//end::Assignment-180[]
+
 //end::Week-41[]
 
 
