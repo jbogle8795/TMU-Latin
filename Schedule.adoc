@@ -1208,7 +1208,8 @@ Review Chapters 25-27
 
 //end::Assignment-115[]
 //tag::Quiz-17[]
-Quiz 17
+
+Quiz over chapter 17
 
 //end::Quiz-17[]
 //end::Week-27[]
