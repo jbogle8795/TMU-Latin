@@ -1155,6 +1155,10 @@ Review Chapters 22-24
 //tag::Assignment-106[]
 ===== Monday, January 27, 2025
 
+Complete and submit https://drive.google.com/open?id=1EnuXaWZObiAcnlbK3IA32wUiwz9RvvVj&usp=drive_fs[Chapter 18 Homework]
+
+Study https://drive.google.com/open?id=1EnBOeC39ShzxbjKFCrFr5Co9r2CtCvAm&usp=drive_fs[Chapter 18 Vocabulary]
+
 //end::Assignment-106[]
 //tag::Assignment-107[]
 ===== Tuesday, January 28, 2025
@@ -1163,17 +1167,32 @@ Review Chapters 22-24
 //tag::Assignment-108[]
 ===== Wednesday, January 29, 2025
 
+//Complete https://drive.google.com/file/d/1EvTkW9gOQLEFxw0oakqp_ASirCHdCTsK/view?usp=sharing[Chatper 18 Story]
+
+Study https://drive.google.com/open?id=1EnBOeC39ShzxbjKFCrFr5Co9r2CtCvAm&usp=drive_fs[Chapter 18 Vocabulary]
+
 //end::Assignment-108[]
 //tag::Assignment-109[]
 ===== Thursday, January 30, 2025
+
+//Submit https://drive.google.com/file/d/1EvTkW9gOQLEFxw0oakqp_ASirCHdCTsK/view?usp=sharing[Chatper 18 Story]
+
+Study https://drive.google.com/open?id=1EnBOeC39ShzxbjKFCrFr5Co9r2CtCvAm&usp=drive_fs[Chapter 18 Vocabulary]
 
 //end::Assignment-109[]
 //tag::Assignment-110[]
 ===== Friday, January 31, 2025
 
 //end::Assignment-110[]
+
+//tag::Quiz-17[]
+
+Quiz over chapter 18
+
+//end::Quiz-17[]
+
 //tag::Test-05[]
-Test 5
+No test
 
 //end::Test-05[]
 //end::Week-26[]
@@ -1189,6 +1208,10 @@ Review Chapters 25-27
 //tag::Assignment-111[]
 ===== Monday, February 3, 2025
 
+Complete and submit https://drive.google.com/open?id=1EoaXAzkBPQUW3sLw1Q0wdy6Ct58wHHqA&usp=drive_fs[Chapter 19 Homework]
+
+Study https://drive.google.com/open?id=1Enbuvu007lQCNjnIKodeRxGl42kyyNXD&usp=drive_fs[Chapter 19 Vocabulary]
+
 //end::Assignment-111[]
 //tag::Assignment-112[]
 ===== Tuesday, February 4, 2025
@@ -1197,9 +1220,13 @@ Review Chapters 25-27
 //tag::Assignment-113[]
 ===== Wednesday, February 5, 2025
 
+Study https://drive.google.com/open?id=1Enbuvu007lQCNjnIKodeRxGl42kyyNXD&usp=drive_fs[Chapter 19 Vocabulary]
+
 //end::Assignment-113[]
 //tag::Assignment-114[]
 ===== Thursday, February 6, 2025
+
+Study https://drive.google.com/open?id=1Enbuvu007lQCNjnIKodeRxGl42kyyNXD&usp=drive_fs[Chapter 19 Vocabulary]
 
 //end::Assignment-114[]
 //tag::Assignment-115[]
@@ -1207,11 +1234,7 @@ Review Chapters 25-27
 
 
 //end::Assignment-115[]
-//tag::Quiz-17[]
 
-Quiz over chapter 17
-
-//end::Quiz-17[]
 //end::Week-27[]
 
 
@@ -1224,17 +1247,28 @@ Quiz over chapter 17
 //tag::Assignment-116[]
 ===== Monday, February 10, 2025
 
+Complete and submit https://drive.google.com/open?id=1EpViIdAiuK1eiu0mRXBm9xqIKddH3NYC&usp=drive_fs[Chapter 20 Homework]
+
+
+Study https://drive.google.com/open?id=1Ep3i6xtlLxm2mDZ2fgPJvxWnVfFG-tar&usp=drive_fs[Chapter 20 Vocabulary]
+
 //end::Assignment-116[]
 //tag::Assignment-117[]
 ===== Tuesday, February 11, 2025
+
+
 
 //end::Assignment-117[]
 //tag::Assignment-118[]
 ===== Wednesday, February 12, 2025
 
+Study https://drive.google.com/open?id=1Ep3i6xtlLxm2mDZ2fgPJvxWnVfFG-tar&usp=drive_fs[Chapter 20 Vocabulary]
+
 //end::Assignment-118[]
 //tag::Assignment-119[]
 ===== Thursday, February 13, 2025
+
+Study https://drive.google.com/open?id=1Ep3i6xtlLxm2mDZ2fgPJvxWnVfFG-tar&usp=drive_fs[Chapter 20 Vocabulary]
 
 //end::Assignment-119[]
 //tag::Assignment-120[]
@@ -1256,17 +1290,25 @@ Quiz 18
 //tag::Assignment-121[]
 ===== Monday, February 17, 2025
 
+Review
+
 //end::Assignment-121[]
 //tag::Assignment-122[]
 ===== Tuesday, February 18, 2025
+
+Review
 
 //end::Assignment-122[]
 //tag::Assignment-123[]
 ===== Wednesday, February 19, 2025
 
+Review
+
 //end::Assignment-123[]
 //tag::Assignment-124[]
 ===== Thursday, February 20, 2025
+
+Review
 
 //end::Assignment-124[]
 //tag::Assignment-125[]
