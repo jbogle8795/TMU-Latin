@@ -1226,7 +1226,7 @@ Study https://drive.google.com/open?id=1Enbuvu007lQCNjnIKodeRxGl42kyyNXD&usp=dri
 
 Study https://drive.google.com/open?id=1Enbuvu007lQCNjnIKodeRxGl42kyyNXD&usp=drive_fs[Chapter 19 Vocabulary]
 
-//Complete https://drive.google.com/open?id=1EvZxhqcth6ybCyzZRYnGUZpnkH7mIYGb&usp=drive_fs[Chapter 19 Story]
+Complete https://drive.google.com/open?id=1EvZxhqcth6ybCyzZRYnGUZpnkH7mIYGb&usp=drive_fs[Chapter 19 Story]
 
 //end::Assignment-113[]
 //tag::Assignment-114[]
@@ -1234,7 +1234,7 @@ Study https://drive.google.com/open?id=1Enbuvu007lQCNjnIKodeRxGl42kyyNXD&usp=dri
 
 Study https://drive.google.com/open?id=1Enbuvu007lQCNjnIKodeRxGl42kyyNXD&usp=drive_fs[Chapter 19 Vocabulary]
 
-//Submit https://drive.google.com/open?id=1EvZxhqcth6ybCyzZRYnGUZpnkH7mIYGb&usp=drive_fs[Chapter 19 Story]
+Submit https://drive.google.com/open?id=1EvZxhqcth6ybCyzZRYnGUZpnkH7mIYGb&usp=drive_fs[Chapter 19 Story]
 
 //end::Assignment-114[]
 //tag::Assignment-115[]
