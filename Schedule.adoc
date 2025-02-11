@@ -1272,11 +1272,15 @@ Study https://drive.google.com/open?id=1Ep3i6xtlLxm2mDZ2fgPJvxWnVfFG-tar&usp=dri
 
 Study https://drive.google.com/open?id=1Ep3i6xtlLxm2mDZ2fgPJvxWnVfFG-tar&usp=drive_fs[Chapter 20 Vocabulary]
 
+Complete https://drive.google.com/file/d/1RH0ZC9FpQVGHEEx4c0l76J6axYUhUjJa/view?usp=sharing[Chapter 20 Story]
+
 //end::Assignment-118[]
 //tag::Assignment-119[]
 ===== Thursday, February 13, 2025
 
 Study https://drive.google.com/open?id=1Ep3i6xtlLxm2mDZ2fgPJvxWnVfFG-tar&usp=drive_fs[Chapter 20 Vocabulary]
+
+Submit https://drive.google.com/file/d/1RH0ZC9FpQVGHEEx4c0l76J6axYUhUjJa/view?usp=sharing[Chapter 20 Story]
 
 //end::Assignment-119[]
 //tag::Assignment-120[]
@@ -1284,7 +1288,8 @@ Study https://drive.google.com/open?id=1Ep3i6xtlLxm2mDZ2fgPJvxWnVfFG-tar&usp=dri
 
 //end::Assignment-120[]
 //tag::Quiz-18[]
-Quiz 18
+
+Quiz over chapter 20.
 
 //end::Quiz-18[]
 //end::Week-28[]
