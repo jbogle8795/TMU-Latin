@@ -1303,13 +1303,14 @@ Quiz over chapter 20.
 //tag::Assignment-121[]
 ===== Monday, February 17, 2025
 
-Review
+Complete https://drive.google.com/file/d/1QyHD_V0_vO3BOXixpip19cg7s1i18AUq/view?usp=sharing[Chapter 21 Homework]
+
+Study https://drive.google.com/file/d/1LiJn9XHvEb51UOPyfmkJJ7DOtZzIdKt0/view?usp=sharing[Chapter 21 Vocabulary]
 
 //end::Assignment-121[]
 //tag::Assignment-122[]
 ===== Tuesday, February 18, 2025
 
-Review
 
 //end::Assignment-122[]
 //tag::Assignment-123[]
