@@ -1316,13 +1316,16 @@ Study https://drive.google.com/file/d/1LiJn9XHvEb51UOPyfmkJJ7DOtZzIdKt0/view?usp
 //tag::Assignment-123[]
 ===== Wednesday, February 19, 2025
 
-Review
+Complete 
+https://drive.google.com/file/d/1EtHgZ0GKKtjB4j7hmRD75IcYSAGyg_hS/view?usp=sharing[Chapter 22 Story]
 
 //end::Assignment-123[]
 //tag::Assignment-124[]
 ===== Thursday, February 20, 2025
 
-Review
+Submit
+https://drive.google.com/file/d/1EtHgZ0GKKtjB4j7hmRD75IcYSAGyg_hS/view?usp=sharing[Chapter 22 Story]
+
 
 //end::Assignment-124[]
 //tag::Assignment-125[]
@@ -1347,6 +1350,12 @@ Quiz 19
 
 //tag::Assignment-126[]
 ===== Monday, February 24, 2025
+
+Complete the first page of 
+https://drive.google.com/open?id=1EtnPz5yM5AwGmGte6PpwBFzHiYbZbthZ&usp=drive_fs[Chapter 22 Homework.]
+
+Study
+https://drive.google.com/open?id=1EtIYjVZRxIyDsXmApTPIF3Fe4TIEiu51&usp=drive_fs[Chapter 22 Vocabulary]
 
 //end::Assignment-126[]
 //tag::Assignment-127[]
