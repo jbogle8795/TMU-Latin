@@ -1317,14 +1317,14 @@ Study https://drive.google.com/file/d/1LiJn9XHvEb51UOPyfmkJJ7DOtZzIdKt0/view?usp
 ===== Wednesday, February 19, 2025
 
 Complete 
-https://drive.google.com/file/d/1EtHgZ0GKKtjB4j7hmRD75IcYSAGyg_hS/view?usp=sharing[Chapter 22 Story]
+https://drive.google.com/file/d/1EtHgZ0GKKtjB4j7hmRD75IcYSAGyg_hS/view?usp=sharing[Chapter 21 Story]
 
 //end::Assignment-123[]
 //tag::Assignment-124[]
 ===== Thursday, February 20, 2025
 
 Submit
-https://drive.google.com/file/d/1EtHgZ0GKKtjB4j7hmRD75IcYSAGyg_hS/view?usp=sharing[Chapter 22 Story]
+https://drive.google.com/file/d/1EtHgZ0GKKtjB4j7hmRD75IcYSAGyg_hS/view?usp=sharing[Chapter 21 Story]
 
 
 //end::Assignment-124[]
@@ -1366,9 +1366,17 @@ Chapel Schedule
 //tag::Assignment-128[]
 ===== Wednesday, February 26, 2025
 
+Complete
+https://drive.google.com/open?id=1EtnPz5yM5AwGmGte6PpwBFzHiYbZbthZ&usp=drive_fs[Chapter 22 Homework.]
+
+
 //end::Assignment-128[]
 //tag::Assignment-129[]
 ===== Thursday, February 27, 2025
+
+Submit 
+https://drive.google.com/open?id=1EtnPz5yM5AwGmGte6PpwBFzHiYbZbthZ&usp=drive_fs[Chapter 22 Homework.]
+
 
 //end::Assignment-129[]
 //tag::Assignment-130[]
@@ -1376,7 +1384,8 @@ Chapel Schedule
 
 //end::Assignment-130[]
 //tag::Quiz-20[]
-Quiz 20
+
+Quiz over chapters 21 and 22.
 
 //end::Quiz-20[]
 //end::Week-30[]
@@ -1389,6 +1398,8 @@ Quiz 20
 //end::Weekly-Overview-31[]
 //tag::Assignment-131[]
 ===== Monday, March 3, 2025
+
+//Complete https://drive.google.com/file/d/1Eqfo6vutDEKhkXFnT9VrxRx4E3ZAEvTZ/view?usp=sharing[Chapter 22 Story]
 
 //end::Assignment-131[]
 //tag::Assignment-132[]
