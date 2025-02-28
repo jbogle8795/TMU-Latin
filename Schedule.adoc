@@ -1399,7 +1399,7 @@ Quiz over chapters 21 and 22.
 //tag::Assignment-131[]
 ===== Monday, March 3, 2025
 
-//Complete https://drive.google.com/file/d/1Eqfo6vutDEKhkXFnT9VrxRx4E3ZAEvTZ/view?usp=sharing[Chapter 22 Story]
+Complete https://drive.google.com/file/d/1Eqfo6vutDEKhkXFnT9VrxRx4E3ZAEvTZ/view?usp=sharing[Chapter 22 Story]
 
 //end::Assignment-131[]
 //tag::Assignment-132[]
