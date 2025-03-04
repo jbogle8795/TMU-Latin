@@ -1409,9 +1409,16 @@ Complete https://drive.google.com/file/d/1Eqfo6vutDEKhkXFnT9VrxRx4E3ZAEvTZ/view?
 //tag::Assignment-133[]
 ===== Wednesday, March 5, 2025
 
+Study chapters 15-22.
+
 //end::Assignment-133[]
 //tag::Assignment-134[]
 ===== Thursday, March 6, 2025
+
+Submit the translation from class Tuesday. 
+
+Study chapters 15-22.
+
 
 //end::Assignment-134[]
 //tag::Assignment-135[]
@@ -1422,7 +1429,8 @@ End of 3rd term
 
 //end::Assignment-135[]
 //tag::Test-06[]
-Test 6
+
+Test over chapters 15-22.
 
 //end::Test-06[]
 //end::Week-31[]
