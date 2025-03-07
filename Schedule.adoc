@@ -1447,6 +1447,8 @@ Test over chapters 15-22.
 //tag::Assignment-136[]
 ===== Monday, March 10, 2025
 
+Review https://drive.google.com/file/d/1LpPY-oGbwCj2NxcV7lDTQ37OTigt-Rti/view?usp=sharing[Chapter 23 Vocabulary]
+
 //end::Assignment-136[]
 //tag::Assignment-137[]
 ===== Tuesday, March 11, 2025
