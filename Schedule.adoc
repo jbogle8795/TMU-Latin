@@ -1493,10 +1493,10 @@ Quiz over chapter 23.
 ===== Monday, March 17, 2025
 
 Submit the frist two pages of 
-//https://drive.google.com/file/d/1R5f-vstdJNHc34THTplN4hk9lFHjVjI6/view?usp=sharing[Lesson 24 Homework]
+https://drive.google.com/file/d/1R5f-vstdJNHc34THTplN4hk9lFHjVjI6/view?usp=sharing[Lesson 24 Homework]
 
 Study 
-//https://drive.google.com/file/d/1Lpo1wNDxa9Uy-7ax98dHQzeNFsbhFlXj/view?usp=sharing[Lesson 24 Vocabulary]
+https://drive.google.com/file/d/1Lpo1wNDxa9Uy-7ax98dHQzeNFsbhFlXj/view?usp=sharing[Lesson 24 Vocabulary]
 
 //end::Assignment-141[]
 //tag::Assignment-142[]
@@ -1581,7 +1581,8 @@ Submit the rest of
 
 //end::Assignment-150[]
 //tag::Quiz-23[]
-Quiz 23
+
+Quiz over chapter 25
 
 //end::Quiz-23[]
 //end::Week-34[]
@@ -1667,11 +1668,11 @@ Sping Break
 //tag::Assignment-156[]
 ===== Monday, April 14, 2025
 
+//Review 23-25
+
+Submit
 //https://drive.google.com/file/d/1RFKf5f8K2BrVrPbjgubasC9ueLaUAgTs/view?usp=sharing[Chapter 23 Story]
 
-//https://drive.google.com/file/d/1R7vnIPcBHJC6OPj4t-zgHELCtifLKUA5/view?usp=sharing[Chapter 24 Story]
-
-//https://drive.google.com/file/d/1usN2Fyy2r4z2JQZoGIUfKe9CfBeqqHrc/view?usp=sharing[Chapter 25 Story]
 
 //end::Assignment-156[]
 //tag::Assignment-157[]
@@ -1683,9 +1684,23 @@ Sping Break
 //tag::Assignment-158[]
 ===== Wednesday, April 16, 2025
 
+Complete
+
+//https://drive.google.com/file/d/1R7vnIPcBHJC6OPj4t-zgHELCtifLKUA5/view?usp=sharing[Chapter 24 Story]
+
+//https://drive.google.com/file/d/1usN2Fyy2r4z2JQZoGIUfKe9CfBeqqHrc/view?usp=sharing[Chapter 25 Story]
+
+
 //end::Assignment-158[]
 //tag::Assignment-159[]
 ===== Thursday, April 17, 2025
+
+Submit
+
+//https://drive.google.com/file/d/1R7vnIPcBHJC6OPj4t-zgHELCtifLKUA5/view?usp=sharing[Chapter 24 Story]
+
+//https://drive.google.com/file/d/1usN2Fyy2r4z2JQZoGIUfKe9CfBeqqHrc/view?usp=sharing[Chapter 25 Story]
+
 
 //end::Assignment-159[]
 //tag::Assignment-160[]
@@ -1707,25 +1722,36 @@ Sping Break
 //tag::Assignment-161[]
 ===== Monday, April 21, 2025
 
+//Translate Loci Antiqui II on page 352.
+
 //end::Assignment-161[]
 //tag::Assignment-162[]
 ===== Tuesday, April 22, 2025
+
+//Translate Loci Antiqui III on pages 352-353.
 
 //end::Assignment-162[]
 //tag::Assignment-163[]
 ===== Wednesday, April 23, 2025
 
+//Translate Loci Antiqui IV on page 353.
+
 //end::Assignment-163[]
 //tag::Assignment-164[]
 ===== Thursday, April 24, 2025
+
+//Translate Loci Antiqui V on page 354.
 
 //end::Assignment-164[]
 //tag::Assignment-165[]
 ===== Friday, April 25, 2025
 
+//Translate Loci Antiqui VI on pages 354-355.
+
 //end::Assignment-165[]
 //tag::Quiz-25[]
-Quiz 25
+
+Review Quiz
 
 //end::Quiz-25[]
 //end::Week-38[]
@@ -1740,15 +1766,22 @@ Quiz 25
 //tag::Assignment-166[]
 ===== Monday, April 28, 2025
 
+//Finish translating Loci Antiqui VI on pages 354-355.
+
+
 //end::Assignment-166[]
 //tag::Assignment-167[]
 ===== Tuesday, April 29, 2025
 
 *Chapel Day*
 
+//Translate Loci Antiqui VII on pages 355-356.
+
 //end::Assignment-167[]
 //tag::Assignment-168[]
 ===== Wednesday, April 30, 2025
+
+//Translate Loci Antiqui VIII on pages 356-357.
 
 //end::Assignment-168[]
 //tag::Assignment-169[]
@@ -1758,9 +1791,13 @@ Quiz 25
 //tag::Assignment-170[]
 ===== Friday, May 2, 2025
 
+//Translate Loci Antiqui IX on pages 357-358.
+
+
 //end::Assignment-170[]
 //tag::Quiz-26[]
-Quiz 26
+
+Review Quiz
 
 //end::Quiz-26[]
 //end::Week-39[]
@@ -1795,11 +1832,32 @@ Quiz 26
 *1/2 day of testing*
 
 //end::Assignment-175[]
+
+//tag::Test-08[]
+
+Final
+
+//end::Test-08[]
+
+
+
 //tag::Quiz-27[]
 Quiz 27
 
 //end::Quiz-27[]
 //end::Week-40[]
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==== Week 41
 //tag::Week-41[]
@@ -1820,11 +1878,6 @@ Quiz 27
 
 //end::Assignment-177[]
 
-
-//tag::Test-08[]
-Test 8
-
-//end::Test-08[]
 
 
 //tag::Assignment-178[]
