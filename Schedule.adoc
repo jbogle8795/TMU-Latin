@@ -1686,7 +1686,7 @@ Submit
 
 Complete
 
-//https://drive.google.com/file/d/1R7vnIPcBHJC6OPj4t-zgHELCtifLKUA5/view?usp=sharing[Chapter 24 Story]
+//https://drive.google.com/file/d/1R7vnIPcBHJC6OPj4t-zgHELCtifLKUA5/view?usp=sharing[Chapter 24 Story] and
 
 //https://drive.google.com/file/d/1usN2Fyy2r4z2JQZoGIUfKe9CfBeqqHrc/view?usp=sharing[Chapter 25 Story]
 
@@ -1697,7 +1697,7 @@ Complete
 
 Submit
 
-//https://drive.google.com/file/d/1R7vnIPcBHJC6OPj4t-zgHELCtifLKUA5/view?usp=sharing[Chapter 24 Story]
+//https://drive.google.com/file/d/1R7vnIPcBHJC6OPj4t-zgHELCtifLKUA5/view?usp=sharing[Chapter 24 Story] and
 
 //https://drive.google.com/file/d/1usN2Fyy2r4z2JQZoGIUfKe9CfBeqqHrc/view?usp=sharing[Chapter 25 Story]
 
@@ -1722,7 +1722,7 @@ Submit
 //tag::Assignment-161[]
 ===== Monday, April 21, 2025
 
-//Translate Loci Antiqui II on page 352.
+//Translate and submit Loci Antiqui II on page 352.
 
 //end::Assignment-161[]
 //tag::Assignment-162[]
@@ -1741,6 +1741,8 @@ Submit
 ===== Thursday, April 24, 2025
 
 //Translate Loci Antiqui V on page 354.
+
+//Submit Loci Antiqui III, IV, and V
 
 //end::Assignment-164[]
 //tag::Assignment-165[]
@@ -1766,7 +1768,7 @@ Review Quiz
 //tag::Assignment-166[]
 ===== Monday, April 28, 2025
 
-//Finish translating Loci Antiqui VI on pages 354-355.
+//Finish translating and submit Loci Antiqui VI on pages 354-355.
 
 
 //end::Assignment-166[]
@@ -1812,6 +1814,8 @@ Review Quiz
 
 //tag::Assignment-171[]
 ===== Monday, May 5, 2025
+
+//Finish and submit Loci Antiqui IX
 
 //end::Assignment-171[]
 //tag::Assignment-172[]
