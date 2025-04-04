@@ -1668,10 +1668,10 @@ Sping Break
 //tag::Assignment-156[]
 ===== Monday, April 14, 2025
 
-//Review 23-25
+Review 23-25
 
 Submit
-//https://drive.google.com/file/d/1RFKf5f8K2BrVrPbjgubasC9ueLaUAgTs/view?usp=sharing[Chapter 23 Story]
+https://drive.google.com/file/d/1RFKf5f8K2BrVrPbjgubasC9ueLaUAgTs/view?usp=sharing[Chapter 23 Story]
 
 
 //end::Assignment-156[]
@@ -1680,13 +1680,16 @@ Submit
 
 *Seminar Day*
 
+Complete
+https://drive.google.com/file/d/1R7vnIPcBHJC6OPj4t-zgHELCtifLKUA5/view?usp=sharing[Chapter 24 Story]
+
 //end::Assignment-157[]
 //tag::Assignment-158[]
 ===== Wednesday, April 16, 2025
 
 Complete
 
-//https://drive.google.com/file/d/1R7vnIPcBHJC6OPj4t-zgHELCtifLKUA5/view?usp=sharing[Chapter 24 Story] and
+ and
 
 //https://drive.google.com/file/d/1usN2Fyy2r4z2JQZoGIUfKe9CfBeqqHrc/view?usp=sharing[Chapter 25 Story]
 
@@ -1697,9 +1700,9 @@ Complete
 
 Submit
 
-//https://drive.google.com/file/d/1R7vnIPcBHJC6OPj4t-zgHELCtifLKUA5/view?usp=sharing[Chapter 24 Story] and
-
-//https://drive.google.com/file/d/1usN2Fyy2r4z2JQZoGIUfKe9CfBeqqHrc/view?usp=sharing[Chapter 25 Story]
+https://drive.google.com/file/d/1R7vnIPcBHJC6OPj4t-zgHELCtifLKUA5/view?usp=sharing[Chapter 24 Story] 
+and
+https://drive.google.com/file/d/1usN2Fyy2r4z2JQZoGIUfKe9CfBeqqHrc/view?usp=sharing[Chapter 25 Story]
 
 
 //end::Assignment-159[]
