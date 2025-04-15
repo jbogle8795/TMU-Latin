@@ -1664,11 +1664,12 @@ Sping Break
 //tag::Weekly-Overview-37[]
 37
 
+Review 23-25
+
 //end::Weekly-Overview-37[]
 //tag::Assignment-156[]
 ===== Monday, April 14, 2025
 
-Review 23-25
 
 Submit
 https://drive.google.com/file/d/1RFKf5f8K2BrVrPbjgubasC9ueLaUAgTs/view?usp=sharing[Chapter 23 Story]
@@ -1689,9 +1690,7 @@ https://drive.google.com/file/d/1R7vnIPcBHJC6OPj4t-zgHELCtifLKUA5/view?usp=shari
 
 Complete
 
- and
-
-//https://drive.google.com/file/d/1usN2Fyy2r4z2JQZoGIUfKe9CfBeqqHrc/view?usp=sharing[Chapter 25 Story]
+https://drive.google.com/file/d/1usN2Fyy2r4z2JQZoGIUfKe9CfBeqqHrc/view?usp=sharing[Chapter 25 Story]
 
 
 //end::Assignment-158[]
@@ -1725,7 +1724,7 @@ https://drive.google.com/file/d/1usN2Fyy2r4z2JQZoGIUfKe9CfBeqqHrc/view?usp=shari
 //tag::Assignment-161[]
 ===== Monday, April 21, 2025
 
-//Translate and submit Loci Antiqui II on page 352.
+Translate and submit Loci Antiqui II on page 352.
 
 //end::Assignment-161[]
 //tag::Assignment-162[]
