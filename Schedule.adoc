@@ -1730,21 +1730,21 @@ Translate and submit Loci Antiqui II on page 352.
 //tag::Assignment-162[]
 ===== Tuesday, April 22, 2025
 
-//Translate Loci Antiqui III on pages 352-353.
+Translate Loci Antiqui III on pages 352-353.
 
 //end::Assignment-162[]
 //tag::Assignment-163[]
 ===== Wednesday, April 23, 2025
 
-//Translate Loci Antiqui IV on page 353.
+Translate Loci Antiqui IV on page 353.
 
 //end::Assignment-163[]
 //tag::Assignment-164[]
 ===== Thursday, April 24, 2025
 
-//Translate Loci Antiqui V on page 354.
+Translate Loci Antiqui V on page 354.
 
-//Submit Loci Antiqui III, IV, and V
+Submit Loci Antiqui III, IV, and V
 
 //end::Assignment-164[]
 //tag::Assignment-165[]
