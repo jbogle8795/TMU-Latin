@@ -1769,7 +1769,6 @@ Review Quiz
 //tag::Assignment-166[]
 ===== Monday, April 28, 2025
 
-
 Translate and submit Loci Antiqui VI on pages 354-355.
 
 //Finish translating and submit Loci Antiqui VI on pages 354-355.
@@ -1787,13 +1786,12 @@ Translate Loci Antiqui VII on pages 355-356.
 //tag::Assignment-168[]
 ===== Wednesday, April 30, 2025
 
-Translate Loci Antiqui VIII on pages 356-357.
 
 //end::Assignment-168[]
 //tag::Assignment-169[]
 ===== Thursday, May 1, 2025
 
-Submit Loci Antiqui VII and VIII
+Submit Loci Antiqui VII.
 
 //end::Assignment-169[]
 //tag::Assignment-170[]
