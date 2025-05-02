@@ -1819,7 +1819,7 @@ Review Quiz
 //tag::Assignment-171[]
 ===== Monday, May 5, 2025
 
-//Finish and submit Loci Antiqui IX
+Translate Loci Antiqui IX on pages 357-358.
 
 //end::Assignment-171[]
 //tag::Assignment-172[]
